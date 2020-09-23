@@ -4,13 +4,15 @@ const isEmail = require('is-email')
 const isURL = require('is-url')
 const states = require('datasets-us-states-names').map(name => name.toLowerCase())
 const parse = require('csv-parse/lib/sync')
+const { last } = require('lodash')
 const input = fs.readFileSync(path.join(__dirname, 'coopdirectory.csv'))
 
 const randomPlacenames = [
   'Canada',
   'United Kingdom',
   'Northern Ireland',
-  'Australia'
+  'Australia',
+  'Riverside'
 ].map(place => place.toLowerCase())
 
 function inferType(input) {
@@ -22,6 +24,9 @@ function inferType(input) {
   // Placename
   if (randomPlacenames.includes(input)) return 'placename'
 
+  // Email
+  if (isEmail(input)) return 'email'
+
   // Website
   if (
     isURL(input) || 
@@ -31,9 +36,6 @@ function inferType(input) {
     input.endsWith('.org') ||
     input.endsWith('.coop')
   ) return 'website'
-  
-  // Email
-  if (isEmail(input)) return 'email'
 
   // Region? (has multiple lines)
   if (input.split('\n').length > 1) return 'region'
@@ -61,8 +63,8 @@ function inferType(input) {
   if (input.split(' ').some(word => word.match(/\d+/))) return 'streetAddress' // lonely number somewhere
 
   // Empties
-  if (input.length === 0) return null
-  if (input ===  'none') return null
+  if (input.length === 0) return 'empty'
+  if (input ===  'none') return 'empty'
 
   // Must be a coop name!
   return 'name'
@@ -75,11 +77,32 @@ const records = parse(input, { columns: true, skip_empty_lines: true })
     return { content, type }
   })
 
-console.log(
-  JSON.stringify(
-    records.filter(record => record.type === 'name').map(record => record.content).sort(),
-    // records,
-    null,
-    2
-  )
-) 
+const output = []
+
+const unwantedTypes = ['state', 'placename', 'empty']
+records
+  .forEach((record) => {
+    // start a new record
+    if (record.type === 'name') output.push({})
+
+    // clean up content
+    if (record.type === 'phone') {
+      record.content = record.content.replace(/phone: /i, '')
+    }
+
+    // add the current property to the record
+    if (!unwantedTypes.includes(record.type)) {
+      last(output)[record.type] = record.content
+    }
+  })
+
+console.log(output)
+
+// console.log(
+//   JSON.stringify(
+//     records.filter(record => record.type === 'name').map(record => record.content).sort(),
+//     // records,
+//     null,
+//     2
+//   )
+// ) 
