@@ -96,7 +96,7 @@ records
     }
   })
 
-console.log(output)
+console.log(JSON.stringify(output, null, 2))
 
 // console.log(
 //   JSON.stringify(
