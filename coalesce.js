@@ -55,9 +55,10 @@ function inferType(input) {
   if (input.split(' ').includes('dr.')) return 'streetAddress'
   if (input.split(' ').includes('st')) return 'streetAddress'
   if (input.split(' ').includes('st.')) return 'streetAddress' 
-  if (input.match(/^\d+th$/i)) return 'streetAddress' // 85th
-  if (input.match(/^\d+nd$/i)) return 'streetAddress' // 92nd
-  if (input.match(/^\d+rd$/i)) return 'streetAddress' // 23rd
+  if (input.match(/\d+th/i)) return 'streetAddress' // 85th
+  if (input.match(/\d+nd/i)) return 'streetAddress' // 92nd
+  if (input.match(/\d+rd/i)) return 'streetAddress' // 23rd
+  if (input.split(' ').some(word => word.match(/\d+/))) return 'streetAddress' // lonely number somewhere
 
   // Empties
   if (input.length === 0) return null
@@ -77,6 +78,7 @@ const records = parse(input, { columns: true, skip_empty_lines: true })
 console.log(
   JSON.stringify(
     records.filter(record => record.type === 'name').map(record => record.content).sort(),
+    // records,
     null,
     2
   )
