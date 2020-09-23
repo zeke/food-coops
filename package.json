@@ -1,6 +1,10 @@
 {
   "devDependencies": {
-    "cheerio": "^1.0.0-rc.3"
+    "cheerio": "^1.0.0-rc.3",
+    "csv-parse": "^4.12.0",
+    "datasets-us-states-names": "^1.0.0",
+    "is-email": "^1.0.0",
+    "is-url": "^1.2.4"
   },
   "scripts": {
     "build": "node index.js > cleaned-data.json"
