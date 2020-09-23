@@ -1,0 +1,4542 @@
+[
+  {
+    "name": "Cooperative Grocer Network",
+    "streetAddress": "2600 East Franklin Ave.",
+    "locality": "Minneapolis",
+    "region": "MN",
+    "postalCode": "55406",
+    "lat": "44.962991",
+    "lon": "-93.234171",
+    "feature_id": "7787"
+  },
+  {
+    "name": "Root River Market Co-op",
+    "streetAddress": "119 East Cedar St., P.O. Box 915",
+    "locality": "Houston",
+    "region": "MN",
+    "postalCode": "55943",
+    "lat": "43.763266",
+    "lon": "-91.567406",
+    "feature_id": "5649"
+  },
+  {
+    "name": "South Suburban Food Co-op",
+    "streetAddress": "208 Forest Blvd.",
+    "locality": "Park Forest",
+    "region": "IL",
+    "postalCode": "60466",
+    "lat": "41.484953",
+    "lon": "-87.678794",
+    "feature_id": "11279"
+  },
+  {
+    "name": "South Suburban Food Co-op",
+    "streetAddress": "21750 Main St.",
+    "locality": "Matteson",
+    "region": "IL",
+    "postalCode": "60443",
+    "lat": "41.492488",
+    "lon": "-87.704379",
+    "feature_id": "5679"
+  },
+  {
+    "name": "Topeka Natural Food Co-op",
+    "streetAddress": "503 SW Washburn",
+    "locality": "Topeka",
+    "region": "KS",
+    "postalCode": "66606",
+    "lat": "39.058396",
+    "lon": "-95.692797",
+    "feature_id": "5676"
+  },
+  {
+    "name": "Stevens Point Co-op",
+    "streetAddress": "633 2nd St.",
+    "locality": "Stevens Point",
+    "region": "WI",
+    "postalCode": "54481",
+    "lat": "44.529000",
+    "lon": "-89.585500",
+    "feature_id": "5673"
+  },
+  {
+    "name": "Viola Food Co-op",
+    "streetAddress": "110 Commercial St.",
+    "locality": "Viola",
+    "region": "WI",
+    "postalCode": "54664",
+    "lat": "43.509655",
+    "lon": "-90.661038",
+    "feature_id": "5670"
+  },
+  {
+    "name": "Sunseed Food Co-op",
+    "streetAddress": "6615 N. Atlantic Av.",
+    "locality": "Cape Canaveral",
+    "region": "FL",
+    "postalCode": "32920",
+    "lat": "28.376848",
+    "lon": "-80.606119",
+    "feature_id": "5667"
+  },
+  {
+    "name": "South Royalton Market",
+    "streetAddress": "222 Chelsea Street",
+    "locality": "South Royalton",
+    "region": "VT",
+    "postalCode": "05068",
+    "lat": "43.820295",
+    "lon": "-72.522148",
+    "feature_id": "5664"
+  },
+  {
+    "name": "Soo Cooperative IGA",
+    "streetAddress": "220 Osborn Blvd.",
+    "locality": "Sault Saint Marie",
+    "region": "MI",
+    "postalCode": "49783",
+    "lat": "46.501006",
+    "lon": "-84.348784",
+    "feature_id": "5661"
+  },
+  {
+    "name": "Shediac Co-op",
+    "streetAddress": "P.O335 Main Street",
+    "locality": "Shediac",
+    "region": "NB",
+    "postalCode": "E4P 2B1",
+    "lat": "46.219446",
+    "lon": "-64.543672",
+    "feature_id": "5658"
+  },
+  {
+    "name": "Rutland Area Food Co-op",
+    "streetAddress": "77 Wales St.",
+    "locality": "Rutland",
+    "region": "VT",
+    "postalCode": "05701",
+    "lat": "43.605656",
+    "lon": "-72.977433",
+    "feature_id": "5655"
+  },
+  {
+    "name": "Rudyard Grocery Co-op",
+    "streetAddress": "P.O. Box 368",
+    "locality": "Rudyard",
+    "region": "MI",
+    "postalCode": "49780",
+    "lat": "46.199539",
+    "lon": "-84.658430",
+    "feature_id": "5652"
+  },
+  {
+    "name": "Senbeb Natural Food Co-op",
+    "streetAddress": "5922 Georgia Ave. NW",
+    "locality": "Washington",
+    "region": "DC",
+    "postalCode": "20011",
+    "lat": "38.961947",
+    "lon": "-77.028307",
+    "feature_id": "5646"
+  },
+  {
+    "name": "SUNY Binghamtom Food Co-op",
+    "streetAddress": "University Union SUNY Binghamton",
+    "locality": "Binghamton",
+    "region": "NY",
+    "postalCode": "13902",
+    "lat": "42.101765",
+    "lon": "-75.906578",
+    "feature_id": "5685"
+  },
+  {
+    "name": "Phoenix Earth Food Co-op",
+    "streetAddress": "1447 W. Sylvania Ave.",
+    "locality": "Toledo",
+    "region": "OH",
+    "postalCode": "43612",
+    "lat": "41.692192",
+    "lon": "-83.577341",
+    "feature_id": "5643"
+  },
+  {
+    "name": "Regent Market Co-op",
+    "streetAddress": "2136 Regent St.",
+    "locality": "Madison",
+    "region": "WI",
+    "postalCode": "53705",
+    "lat": "43.068038",
+    "lon": "-89.433768",
+    "feature_id": "5640"
+  },
+  {
+    "name": "Pomme De Terre Food Co-op",
+    "streetAddress": "613 Atlantic Ave.",
+    "locality": "Morris",
+    "region": "MN",
+    "postalCode": "56267",
+    "lat": "45.587808",
+    "lon": "-95.915860",
+    "feature_id": "5637"
+  },
+  {
+    "name": "Pike-Sandy Co-op Grocery",
+    "streetAddress": "7015 Hwy. 169",
+    "locality": "Virginia",
+    "region": "MN",
+    "postalCode": "55792",
+    "lat": "47.654131",
+    "lon": "-92.422400",
+    "feature_id": "5634"
+  },
+  {
+    "name": "Selene Whole Foods Co-op",
+    "streetAddress": "305 W. State St.",
+    "locality": "Media",
+    "region": "PA",
+    "postalCode": "19063",
+    "lat": "39.918700",
+    "lon": "-75.393228",
+    "feature_id": "5631"
+  },
+  {
+    "name": "Plum Creek Food Co-op",
+    "streetAddress": "910 4th Ave.",
+    "locality": "Windom",
+    "region": "MN",
+    "postalCode": "56101",
+    "lat": "43.865615",
+    "lon": "-95.117757",
+    "feature_id": "5628"
+  },
+  {
+    "name": "Prairieland Market",
+    "streetAddress": "138 S. Fourth St.",
+    "locality": "Salina",
+    "region": "KS",
+    "postalCode": "67401",
+    "lat": "38.839075",
+    "lon": "-97.606722",
+    "feature_id": "5625"
+  },
+  {
+    "name": "Plainfield Co-op",
+    "streetAddress": "Box 266",
+    "locality": "Plainfield",
+    "region": "VT",
+    "postalCode": "05667",
+    "lat": "44.254444",
+    "lon": "-72.410278",
+    "feature_id": "5622"
+  },
+  {
+    "name": "Pine River Food Co-op",
+    "streetAddress": "196 W. Court St.",
+    "locality": "Richland Center",
+    "region": "WI",
+    "postalCode": "53581",
+    "lat": "43.334705",
+    "lon": "-90.386793",
+    "feature_id": "5619"
+  },
+  {
+    "name": "Northwind Natural Foods Co-op",
+    "streetAddress": "116 S. Suffolk St.",
+    "locality": "Ironwood",
+    "region": "MI",
+    "postalCode": "49938",
+    "lat": "46.455178",
+    "lon": "-90.169127",
+    "feature_id": "5616"
+  },
+  {
+    "name": "Rainbow Grocery Cooperative",
+    "streetAddress": "1745 Folsom St.",
+    "locality": "San Francisco",
+    "region": "CA",
+    "postalCode": "94103",
+    "lat": "37.769266",
+    "lon": "-122.415454",
+    "feature_id": "5613"
+  },
+  {
+    "name": "Westminster Consumer Co-op",
+    "streetAddress": "28 Westminster Shopping Center",
+    "locality": "Westminster",
+    "region": "MD",
+    "postalCode": "21157",
+    "lat": "39.575379",
+    "lon": "-76.995815",
+    "feature_id": "5682"
+  },
+  {
+    "name": "Cambridge Food Co-op",
+    "streetAddress": "1 West Main Street",
+    "locality": "Cambridge",
+    "region": "NY",
+    "postalCode": "12816",
+    "lat": "43.027834",
+    "lon": "-73.381162",
+    "feature_id": "5688"
+  },
+  {
+    "name": "People&#039;s Grocery Co-op Exchange",
+    "streetAddress": "1620 Fort Riley Blvd, Suite 101",
+    "locality": "Manhattan",
+    "region": "KS",
+    "postalCode": "66502",
+    "lat": "39.174733",
+    "lon": "-96.582768",
+    "feature_id": "11282"
+  },
+  {
+    "name": "Valley Green Feast Collective",
+    "streetAddress": "PO Box 632",
+    "locality": "Northampton",
+    "region": "MA",
+    "postalCode": "01060",
+    "lat": "42.328139",
+    "lon": "-72.615916",
+    "feature_id": "5730"
+  },
+  {
+    "name": "Community Food Co-op – Cordata",
+    "streetAddress": "315 Westerly Road",
+    "locality": "Bellingham",
+    "region": "WA",
+    "postalCode": "98226",
+    "lat": "48.791487",
+    "lon": "-122.492362",
+    "feature_id": "5776"
+  },
+  {
+    "name": "Community Food Co-op – Downtown Bellingham",
+    "streetAddress": "1220 N Forest Street",
+    "locality": "Bellingham",
+    "region": "WA",
+    "postalCode": "98225",
+    "lat": "48.747191",
+    "lon": "-122.476275",
+    "feature_id": "5775"
+  },
+  {
+    "name": "Buffalo Mountain Food Co-op",
+    "streetAddress": "PO Box 336",
+    "locality": "Hardwick",
+    "region": "VT",
+    "postalCode": "05843",
+    "lat": "44.503641",
+    "lon": "-72.368150",
+    "feature_id": "5772"
+  },
+  {
+    "name": "Buffalo Mountain Food Co-op",
+    "streetAddress": "PO Box 336",
+    "locality": "Hardwick",
+    "region": "VT",
+    "postalCode": "05843",
+    "lat": "44.503641",
+    "lon": "-72.368150",
+    "feature_id": "5769"
+  },
+  {
+    "name": "Purple Porch Co-op",
+    "streetAddress": "123 N. Hill St.",
+    "locality": "South Bend",
+    "region": "IN",
+    "postalCode": "46617",
+    "lat": "41.676760",
+    "lon": "-86.242879",
+    "feature_id": "5766"
+  },
+  {
+    "name": "Greenbelt Co-op Supermarket and Pharmacy",
+    "streetAddress": "121 Centerway",
+    "locality": "Greenbelt",
+    "region": "MD",
+    "postalCode": "20770",
+    "lat": "39.002006",
+    "lon": "-76.877909",
+    "feature_id": "5748"
+  },
+  {
+    "name": "Co-op Market Grocery &amp; Deli (Fairbanks)",
+    "streetAddress": "526 Gaffney Road",
+    "locality": "Fairbanks",
+    "region": "AK",
+    "postalCode": "",
+    "lat": "64.836969",
+    "lon": "-147.716553",
+    "feature_id": "5745"
+  },
+  {
+    "name": "Baker Food Co-op",
+    "streetAddress": "2816 Tenth Street",
+    "locality": "Baker City",
+    "region": "OR",
+    "postalCode": "97814",
+    "lat": "44.784834",
+    "lon": "-117.841097",
+    "feature_id": "5742"
+  },
+  {
+    "name": "Stone&#039;s Throw Market",
+    "streetAddress": "502 Garfield Avenue",
+    "locality": "Troy",
+    "region": "OH",
+    "postalCode": "45373",
+    "lat": "40.036775",
+    "lon": "-84.212561",
+    "feature_id": "5739"
+  },
+  {
+    "name": "Merrimack Valley Food Co-op",
+    "streetAddress": "",
+    "locality": "Haverhill",
+    "region": "MA",
+    "postalCode": "01830",
+    "lat": "42.793592",
+    "lon": "-71.037891",
+    "feature_id": "5736"
+  },
+  {
+    "name": "The Granary",
+    "streetAddress": "47 NW 2nd St.",
+    "locality": "Ortonville",
+    "region": "MN",
+    "postalCode": "56278",
+    "lat": "45.315775",
+    "lon": "-96.453267",
+    "feature_id": "5733"
+  },
+  {
+    "name": "Charley’s Other Brother",
+    "streetAddress": "1383 Monmouth Road",
+    "locality": "Eastampton",
+    "region": "NJ",
+    "postalCode": "08060",
+    "lat": "40.012866",
+    "lon": "-74.746512",
+    "feature_id": "5727"
+  },
+  {
+    "name": "Twin Pines Co-op",
+    "streetAddress": "382 Main St.",
+    "locality": "Port Washington",
+    "region": "NY",
+    "postalCode": "11050",
+    "lat": "40.830517",
+    "lon": "-73.701703",
+    "feature_id": "5691"
+  },
+  {
+    "name": "City Food Co-op",
+    "streetAddress": "CLOSED",
+    "locality": "Saint Louis",
+    "region": "MO",
+    "postalCode": "63118",
+    "lat": "38.595062",
+    "lon": "-90.229157",
+    "feature_id": "5724"
+  },
+  {
+    "name": "Crow Wing Food Cooperative",
+    "streetAddress": "823 Washington Street",
+    "locality": "Brainerd",
+    "region": "MN",
+    "postalCode": "56401",
+    "lat": "46.358119",
+    "lon": "-94.196293",
+    "feature_id": "5721"
+  },
+  {
+    "name": "Comida Market",
+    "streetAddress": "131 E. Main St.",
+    "locality": "Trinidad",
+    "region": "CO",
+    "postalCode": "81082",
+    "lat": "37.168781",
+    "lon": "-104.505020",
+    "feature_id": "5718"
+  },
+  {
+    "name": "East Warren Community Market",
+    "streetAddress": "42 Roxbury Mountain Rd.",
+    "locality": "Warren",
+    "region": "VT",
+    "postalCode": "05674",
+    "lat": "44.108814",
+    "lon": "-72.819168",
+    "feature_id": "5715"
+  },
+  {
+    "name": "Sointula Co-operative Store Association",
+    "streetAddress": "175 1st Street",
+    "locality": "Sointula",
+    "region": "BC",
+    "postalCode": "V0N 3E0",
+    "lat": "50.630246",
+    "lon": "-127.019162",
+    "feature_id": "5712"
+  },
+  {
+    "name": "Oklahoma Food Cooperative",
+    "streetAddress": "1524 NW 21",
+    "locality": "Oklahoma City",
+    "region": "OK",
+    "postalCode": "73106",
+    "lat": "35.490865",
+    "lon": "-97.536524",
+    "feature_id": "5709"
+  },
+  {
+    "name": "Riverwest Co-op",
+    "streetAddress": "733 E. Clarke Street",
+    "locality": "Milwaukee",
+    "region": "WI",
+    "postalCode": "53212",
+    "lat": "43.065487",
+    "lon": "-87.901783",
+    "feature_id": "5706"
+  },
+  {
+    "name": "River City Food Co-op",
+    "streetAddress": "116 Washington",
+    "locality": "Evansville",
+    "region": "IN",
+    "postalCode": "47713",
+    "lat": "37.963212",
+    "lon": "-87.563217",
+    "feature_id": "5703"
+  },
+  {
+    "name": "The Big Carrot",
+    "streetAddress": "348 Danforth Ave.",
+    "locality": "Toronto",
+    "region": "ON",
+    "postalCode": "M4K 1N8",
+    "lat": "43.677605",
+    "lon": "-79.352573",
+    "feature_id": "5700"
+  },
+  {
+    "name": "Rene Pujol Restaurant Cooperative",
+    "streetAddress": "321 West 51 Street",
+    "locality": "New York",
+    "region": "NY",
+    "postalCode": "10019",
+    "lat": "40.763516",
+    "lon": "-73.986566",
+    "feature_id": "5697"
+  },
+  {
+    "name": "Northampton Community Cooperative Market",
+    "streetAddress": "PO Box 1245",
+    "locality": "Northampton",
+    "region": "MA",
+    "postalCode": "01061",
+    "lat": "42.321403",
+    "lon": "-72.627349",
+    "feature_id": "5694"
+  },
+  {
+    "name": "Peninsula Co-op",
+    "streetAddress": "#1 - 2132 Keating, X Road",
+    "locality": "Saanichton",
+    "region": "BC",
+    "postalCode": "V8M 2A6",
+    "lat": "48.565157",
+    "lon": "-123.411914",
+    "feature_id": "5610"
+  },
+  {
+    "name": "Other Avenues Food Store",
+    "streetAddress": "3930 Judah St.",
+    "locality": "San Francisco",
+    "region": "CA",
+    "postalCode": "94122",
+    "lat": "37.760634",
+    "lon": "-122.504358",
+    "feature_id": "5604"
+  },
+  {
+    "name": "Dill Pickle Food Co-op",
+    "streetAddress": "2746 N Milwaukee Ave.",
+    "locality": "Chicago",
+    "region": "IL",
+    "postalCode": "60647",
+    "lat": "41.930932",
+    "lon": "-87.711027",
+    "feature_id": "5784"
+  },
+  {
+    "name": "Breadroot Cooperative",
+    "streetAddress": "100 E. Boulevard N",
+    "locality": "Rapid City",
+    "region": "SD",
+    "postalCode": "57701",
+    "lat": "44.089847",
+    "lon": "-103.231954",
+    "feature_id": "5483"
+  },
+  {
+    "name": "EveryBody&#039;s Market",
+    "streetAddress": "11 1st . St. N",
+    "locality": "Long Prairie",
+    "region": "MN",
+    "postalCode": "56347",
+    "lat": "45.974296",
+    "lon": "-94.863796",
+    "feature_id": "5516"
+  },
+  {
+    "name": "Glut Food Co-op",
+    "streetAddress": "4005 34th St.",
+    "locality": "Mt Rainier",
+    "region": "MD",
+    "postalCode": "20712",
+    "lat": "38.941500",
+    "lon": "-76.964975",
+    "feature_id": "5513"
+  },
+  {
+    "name": "Ebytown Food Co-op",
+    "streetAddress": "280 Phillip St., Bldg A4",
+    "locality": "Waterloo",
+    "region": "ON",
+    "postalCode": "N2L3X1",
+    "lat": "43.475144",
+    "lon": "-80.537768",
+    "feature_id": "5510"
+  },
+  {
+    "name": "Finland Grocery Co-op",
+    "streetAddress": "P.O. Box E",
+    "locality": "Finland",
+    "region": "MN",
+    "postalCode": "55603",
+    "lat": "47.414082",
+    "lon": "-91.246199",
+    "feature_id": "5507"
+  },
+  {
+    "name": "Eat Your Peel Food Co-op",
+    "streetAddress": "2130 MacKay",
+    "locality": "Montreal",
+    "region": "QC",
+    "postalCode": "H3G 2J1",
+    "lat": "45.497110",
+    "lon": "-73.580027",
+    "feature_id": "5504"
+  },
+  {
+    "name": "Community Harvest Market",
+    "streetAddress": "1405 Highland Av.",
+    "locality": "Melbourne",
+    "region": "FL",
+    "postalCode": "32935",
+    "lat": "28.136156",
+    "lon": "-80.630188",
+    "feature_id": "5501"
+  },
+  {
+    "name": "Co-op Markets: Whole Health",
+    "streetAddress": "1300 E. 47th St.",
+    "locality": "Chicago",
+    "region": "IL",
+    "postalCode": "60653",
+    "lat": "41.809977",
+    "lon": "-87.595354",
+    "feature_id": "5498"
+  },
+  {
+    "name": "Brookings Natural Foods Co-op",
+    "streetAddress": "630 Chetco Av., P.O. Box 8051",
+    "locality": "Brookings",
+    "region": "OR",
+    "postalCode": "97415",
+    "lat": "42.052394",
+    "lon": "-124.282226",
+    "feature_id": "5495"
+  },
+  {
+    "name": "Countryside Co-op",
+    "streetAddress": "P.O. Box 262 Main St.",
+    "locality": "Hackensack",
+    "region": "MN",
+    "postalCode": "56452",
+    "lat": "46.930792",
+    "lon": "-94.520552",
+    "feature_id": "5492"
+  },
+  {
+    "name": "Deer Isle Co-op",
+    "streetAddress": "P.O. Box 25",
+    "locality": "Deer Isle",
+    "region": "ME",
+    "postalCode": "04627",
+    "lat": "44.202933",
+    "lon": "-68.670910",
+    "feature_id": "5489"
+  },
+  {
+    "name": "Buffalo Mountain Co-op",
+    "streetAddress": "Box 336, 39 S. Main St.",
+    "locality": "Hardwick",
+    "region": "VT",
+    "postalCode": "05843",
+    "lat": "44.504776",
+    "lon": "-72.368162",
+    "feature_id": "11285"
+  },
+  {
+    "name": "Clear Creek Food Co-op",
+    "streetAddress": "701 West National Road",
+    "locality": "Richmond",
+    "region": "IN",
+    "postalCode": "47374",
+    "lat": "39.823941",
+    "lon": "-84.913241",
+    "feature_id": "5480"
+  },
+  {
+    "name": "Eats Natural Foods Co-op",
+    "streetAddress": "1200 N. Main St.",
+    "locality": "Blacksburg",
+    "region": "VA",
+    "postalCode": "24060",
+    "lat": "37.214106",
+    "lon": "-80.392680",
+    "feature_id": "5522"
+  },
+  {
+    "name": "Community Co-op - New York",
+    "streetAddress": "589 E. Albany Street",
+    "locality": "Little Falls",
+    "region": "NY",
+    "postalCode": "13365",
+    "lat": "43.043898",
+    "lon": "-74.855544",
+    "feature_id": "5477"
+  },
+  {
+    "name": "Bexley Natural Market",
+    "streetAddress": "508 N. Cassady Av.",
+    "locality": "Columbus",
+    "region": "OH",
+    "postalCode": "43209",
+    "lat": "39.980955",
+    "lon": "-82.931708",
+    "feature_id": "5474"
+  },
+  {
+    "name": "Bethesda Co-op",
+    "streetAddress": "6500 Seven Locks Rd",
+    "locality": "Cabin John",
+    "region": "MD",
+    "postalCode": "20818",
+    "lat": "38.975388",
+    "lon": "-77.158035",
+    "feature_id": "5471"
+  },
+  {
+    "name": "Adamant Co-op",
+    "streetAddress": "P.O. Box 1",
+    "locality": "Adamant",
+    "region": "VT",
+    "postalCode": "05640",
+    "lat": "44.331065",
+    "lon": "-72.514144",
+    "feature_id": "5468"
+  },
+  {
+    "name": "Beautiful Leaf Food Co-op",
+    "streetAddress": "5927 W. 6 MIle",
+    "locality": "Brimley",
+    "region": "MI",
+    "postalCode": "49715",
+    "lat": "46.374829",
+    "lon": "-84.722369",
+    "feature_id": "5465"
+  },
+  {
+    "name": "4th Street Food Co-op",
+    "streetAddress": "58 E. 4th Street",
+    "locality": "New York",
+    "region": "NY",
+    "postalCode": "10003",
+    "lat": "40.726597",
+    "lon": "-73.990837",
+    "feature_id": "5462"
+  },
+  {
+    "name": "Arctic Co-operatives Ltd.",
+    "streetAddress": "1645 Inkster Blvd.",
+    "locality": "Winnipeg",
+    "region": "MB",
+    "postalCode": "R2X 2W7",
+    "lat": "49.946423",
+    "lon": "-97.185298",
+    "feature_id": "5459"
+  },
+  {
+    "name": "cooperative d&#039;alentour",
+    "streetAddress": "4740 Industrial boul",
+    "locality": "Sherbrooke",
+    "region": "QC",
+    "postalCode": "J1L 3A3",
+    "lat": "45.394529",
+    "lon": "-71.984208",
+    "feature_id": "5456"
+  },
+  {
+    "name": "The Food Co-op",
+    "streetAddress": "414 Kearney",
+    "locality": "Port Townsend",
+    "region": "WA",
+    "postalCode": "98368",
+    "lat": "48.110751",
+    "lon": "-122.770658",
+    "feature_id": "5453"
+  },
+  {
+    "name": "Ontario Natural Food Co-op",
+    "streetAddress": "5685 McLaughlin Rd.",
+    "locality": "Mississauga",
+    "region": "ON",
+    "postalCode": "L5R 3K5",
+    "lat": "43.610460",
+    "lon": "-79.680029",
+    "feature_id": "5450"
+  },
+  {
+    "name": "Bread &amp; Roses Food Cooperative",
+    "streetAddress": "915 Railroad Avenue",
+    "locality": "Tallahassee",
+    "region": "FL",
+    "postalCode": "32310",
+    "lat": "30.433991",
+    "lon": "-84.289426",
+    "feature_id": "5447"
+  },
+  {
+    "name": "Fredericton Direct Charge Co-op",
+    "streetAddress": "P.O. Box 602 Vanier Hwy.",
+    "locality": "Fredericton",
+    "region": "NB",
+    "postalCode": "E3B 5A6",
+    "lat": "45.961263",
+    "lon": "-66.639344",
+    "feature_id": "5519"
+  },
+  {
+    "name": "Ferry County Co-op",
+    "streetAddress": "P.O. Box 335",
+    "locality": "Republic",
+    "region": "WA",
+    "postalCode": "99166",
+    "lat": "48.652412",
+    "lon": "-118.743269",
+    "feature_id": "5525"
+  },
+  {
+    "name": "Okanogan River Natural Foods Co-op",
+    "streetAddress": "P.O. Box 591- 21 W. 4th Street",
+    "locality": "Tonasket",
+    "region": "WA",
+    "postalCode": "98855",
+    "lat": "48.704791",
+    "lon": "-119.440945",
+    "feature_id": "5601"
+  },
+  {
+    "name": "The London Co-op Store",
+    "streetAddress": "621 Princess Av.",
+    "locality": "London",
+    "region": "ON",
+    "postalCode": "N5W 3L9",
+    "lat": "42.993032",
+    "lon": "-81.232776",
+    "feature_id": "5565"
+  },
+  {
+    "name": "North Country Co-op - New York",
+    "streetAddress": "25 Bridge St.",
+    "locality": "Plattsburg",
+    "region": "NY",
+    "postalCode": "12901",
+    "lat": "44.697843",
+    "lon": "-73.451716",
+    "feature_id": "5598"
+  },
+  {
+    "name": "People&#039;s Market",
+    "streetAddress": "St Un UMA Rm 328",
+    "locality": "Amherst",
+    "region": "MA",
+    "postalCode": "01003",
+    "lat": "42.395656",
+    "lon": "-72.521962",
+    "feature_id": "5595"
+  },
+  {
+    "name": "Oak Center General Store",
+    "streetAddress": "Rt. 1, Box 52BB",
+    "locality": "Lake City",
+    "region": "MN",
+    "postalCode": "55041",
+    "lat": "44.449298",
+    "lon": "-92.266691",
+    "feature_id": "5592"
+  },
+  {
+    "name": "Northern Lakes Grocery Co-op",
+    "streetAddress": "P.O. Box 312, Hwy. 63 South",
+    "locality": "Hayward",
+    "region": "WI",
+    "postalCode": "54843",
+    "lat": "46.071106",
+    "lon": "-91.420152",
+    "feature_id": "5589"
+  },
+  {
+    "name": "Nelson &amp; Albin Co-op Grocery",
+    "streetAddress": "Rt 3, Hwy. 4",
+    "locality": "Saint James",
+    "region": "MN",
+    "postalCode": "56081",
+    "lat": "43.982073",
+    "lon": "-94.628319",
+    "feature_id": "5586"
+  },
+  {
+    "name": "Oceana Natural Foods Co-op",
+    "streetAddress": "159 SE 2nd. St.",
+    "locality": "Newport",
+    "region": "OR",
+    "postalCode": "97365",
+    "lat": "44.636784",
+    "lon": "-124.053451",
+    "feature_id": "5583"
+  },
+  {
+    "name": "Mountain People&#039;s Co-op",
+    "streetAddress": "P.O. Box 161, 30 E. First St.",
+    "locality": "Nederland",
+    "region": "CO",
+    "postalCode": "80466",
+    "lat": "39.962068",
+    "lon": "-105.510796",
+    "feature_id": "5580"
+  },
+  {
+    "name": "Mixed Nuts",
+    "streetAddress": "Hampshire College- 893 West St.",
+    "locality": "Amherst",
+    "region": "MA",
+    "postalCode": "01002",
+    "lat": "42.326348",
+    "lon": "-72.532833",
+    "feature_id": "5577"
+  },
+  {
+    "name": "Natural Alternative",
+    "streetAddress": "241 Main St., Box 377",
+    "locality": "Luck",
+    "region": "WI",
+    "postalCode": "54853",
+    "lat": "45.576066",
+    "lon": "-92.482700",
+    "feature_id": "5574"
+  },
+  {
+    "name": "New Cooperative",
+    "streetAddress": "P.O. Box 365",
+    "locality": "Oneida",
+    "region": "WI",
+    "postalCode": "54155",
+    "lat": "44.517635",
+    "lon": "-88.226643",
+    "feature_id": "5571"
+  },
+  {
+    "name": "Mega Foods / Consumers Co-op",
+    "streetAddress": "1201 S. Hastings Way",
+    "locality": "Eau Claire",
+    "region": "WI",
+    "postalCode": "54702",
+    "lat": "44.810000",
+    "lon": "-91.500000",
+    "feature_id": "5568"
+  },
+  {
+    "name": "Kresge Food Co-op",
+    "streetAddress": "1156 High Street",
+    "locality": "Santa Cruz",
+    "region": "CA",
+    "postalCode": "95064",
+    "lat": "36.999515",
+    "lon": "-122.057656",
+    "feature_id": "5562"
+  },
+  {
+    "name": "Ferry County Co-op",
+    "streetAddress": "34 N Clark Ave",
+    "locality": "Republic",
+    "region": "WA",
+    "postalCode": "99166",
+    "lat": "48.649260",
+    "lon": "-118.738207",
+    "feature_id": "11290"
+  },
+  {
+    "name": "La Grande Ruche",
+    "streetAddress": "25 Bryant St.",
+    "locality": "Sherbrooke",
+    "region": "QC",
+    "postalCode": "J1J 3E5",
+    "lat": "45.398748",
+    "lon": "-71.916238",
+    "feature_id": "5559"
+  },
+  {
+    "name": "Leverett Village Co-op",
+    "streetAddress": "180 Rattlesnake Gutter Rd.",
+    "locality": "Leverett",
+    "region": "MA",
+    "postalCode": "01054",
+    "lat": "42.492565",
+    "lon": "-72.473335",
+    "feature_id": "5556"
+  },
+  {
+    "name": "Main Street Market",
+    "streetAddress": "1 So. Main Street",
+    "locality": "Rice Lake",
+    "region": "WI",
+    "postalCode": "54868",
+    "lat": "45.501553",
+    "lon": "-91.733133",
+    "feature_id": "5553"
+  },
+  {
+    "name": "Hornby Island Co-op",
+    "streetAddress": "Central Road",
+    "locality": "Hornby Island",
+    "region": "BC",
+    "postalCode": "V0R 1Z0",
+    "lat": "49.533176",
+    "lon": "-124.667758",
+    "feature_id": "5550"
+  },
+  {
+    "name": "Hillsdale Family Food Co-op",
+    "streetAddress": "31 North Broad St.",
+    "locality": "Hillsdale",
+    "region": "MI",
+    "postalCode": "49242",
+    "lat": "41.920057",
+    "lon": "-84.630670",
+    "feature_id": "5547"
+  },
+  {
+    "name": "High Falls Food Co-op",
+    "streetAddress": "1398 St. Rt. 213",
+    "locality": "High Falls",
+    "region": "NY",
+    "postalCode": "12440",
+    "lat": "41.826760",
+    "lon": "-74.126255",
+    "feature_id": "5541"
+  },
+  {
+    "name": "Trillium Natural Foods Community Co-op",
+    "streetAddress": "517 Springdale",
+    "locality": "Mount Horeb",
+    "region": "WI",
+    "postalCode": "53572",
+    "lat": "43.008896",
+    "lon": "-89.732705",
+    "feature_id": "11293"
+  },
+  {
+    "name": "Trilium Natural Foods Community Co-op",
+    "streetAddress": "517 Springdale",
+    "locality": "Mount Horeb",
+    "region": "WI",
+    "postalCode": "53572",
+    "lat": "43.009064",
+    "lon": "-89.733014",
+    "feature_id": "5538"
+  },
+  {
+    "name": "Grower&#039;s Market",
+    "streetAddress": "454 Willamette",
+    "locality": "Eugene",
+    "region": "OR",
+    "postalCode": "97401",
+    "lat": "44.054784",
+    "lon": "-123.092954",
+    "feature_id": "5535"
+  },
+  {
+    "name": "Grygla Co-op Company",
+    "streetAddress": "P.O. Box 108, Main St.",
+    "locality": "Grygla",
+    "region": "MN",
+    "postalCode": "56727",
+    "lat": "48.299953",
+    "lon": "-95.618961",
+    "feature_id": "5532"
+  },
+  {
+    "name": "Harvest Co-op (Jaimaica Plain)",
+    "streetAddress": "3815 Washington St.",
+    "locality": "Jaimaica Plain",
+    "region": "MA",
+    "postalCode": "02130",
+    "lat": "42.309700",
+    "lon": "-71.104600",
+    "feature_id": "5529"
+  },
+  {
+    "name": "Harvest Co-op",
+    "streetAddress": "137 1/2 East Front",
+    "locality": "Owatonna",
+    "region": "MN",
+    "postalCode": "55060",
+    "lat": "44.089522",
+    "lon": "-93.224297",
+    "feature_id": "5528"
+  },
+  {
+    "name": "Takoma Park Silver Spring Co-op",
+    "streetAddress": "201 Ethan Allen Av.",
+    "locality": "Takoma Park",
+    "region": "MD",
+    "postalCode": "20912",
+    "lat": "38.977888",
+    "lon": "-77.007477",
+    "feature_id": "5781"
+  },
+  {
+    "name": "Mt. Airy",
+    "streetAddress": "559 Carpenter Lane",
+    "locality": "Philadelphia",
+    "region": "PA",
+    "postalCode": "19119",
+    "lat": "40.046600",
+    "lon": "-75.196070",
+    "feature_id": "5790"
+  },
+  {
+    "name": "Good Food Store",
+    "streetAddress": "Rte. 2, P.O. Box 467",
+    "locality": "Bethel",
+    "region": "ME",
+    "postalCode": "04217",
+    "lat": "44.404459",
+    "lon": "-70.789881",
+    "feature_id": "5441"
+  },
+  {
+    "name": "Carolina Common Enterprise",
+    "streetAddress": "PO Box 2241",
+    "locality": "Durham",
+    "region": "NC",
+    "postalCode": "27702",
+    "lat": "35.990000",
+    "lon": "-78.900000",
+    "feature_id": "15922"
+  },
+  {
+    "name": "Central Avenue",
+    "streetAddress": "100 Watervliet Ave",
+    "locality": "Albany",
+    "region": "NY",
+    "postalCode": "12206",
+    "lat": "42.678662",
+    "lon": "-73.781538",
+    "feature_id": "13540"
+  },
+  {
+    "name": "East 10th St. store",
+    "streetAddress": "2828 E. 10th St.",
+    "locality": "Indianapolis",
+    "region": "IN",
+    "postalCode": "46201",
+    "lat": "39.781554",
+    "lon": "-86.115628",
+    "feature_id": "13407"
+  },
+  {
+    "name": "Saint Mary&#039;s Co-operative Management Education",
+    "streetAddress": "923 Robie Street, Sobie Building Room 330",
+    "locality": "Halifax",
+    "region": "NS",
+    "postalCode": "B3H 3C3",
+    "lat": "44.631131",
+    "lon": "-63.581795",
+    "feature_id": "13365"
+  },
+  {
+    "name": "Cortes Natural Food Co-op – Café",
+    "streetAddress": "800 Sutil Pt Road",
+    "locality": "Mansons Landing",
+    "region": "BC",
+    "postalCode": "V0P 1K0",
+    "lat": "50.059263",
+    "lon": "-124.962872",
+    "feature_id": "13444"
+  },
+  {
+    "name": "Cortes Natural Food Co-op – Store",
+    "streetAddress": "800 Sutil Pt Road",
+    "locality": "Mansons Landing",
+    "region": "BC",
+    "postalCode": "V0P 1K0",
+    "lat": "50.059263",
+    "lon": "-124.962872",
+    "feature_id": "13264"
+  },
+  {
+    "name": "main",
+    "streetAddress": "6559 N. Bosworth",
+    "locality": "Chicago",
+    "region": "IL",
+    "postalCode": "60626",
+    "lat": "42.001609",
+    "lon": "-87.668905",
+    "feature_id": "12931"
+  },
+  {
+    "name": "Main Store",
+    "streetAddress": "1554 N College Avenue",
+    "locality": "Fayetteville",
+    "region": "AR",
+    "postalCode": "72703",
+    "lat": "36.082719",
+    "lon": "-94.155998",
+    "feature_id": "12427"
+  },
+  {
+    "name": "West Chester Food Co-op",
+    "streetAddress": "PO Box 3502",
+    "locality": "West Chester",
+    "region": "PA",
+    "postalCode": "19381",
+    "lat": "39.997314",
+    "lon": "-75.580592",
+    "feature_id": "11288"
+  },
+  {
+    "name": "Long Beach Grocery C0-op",
+    "streetAddress": "tbd",
+    "locality": "Long Beach",
+    "region": "CA",
+    "postalCode": "90804",
+    "lat": "33.780665",
+    "lon": "-118.150303",
+    "feature_id": "11272"
+  },
+  {
+    "name": "Little Falls Food Co-op",
+    "streetAddress": "tbd",
+    "locality": "Little Falls",
+    "region": "MN",
+    "postalCode": "56345",
+    "lat": "45.980556",
+    "lon": "-94.369444",
+    "feature_id": "11269"
+  },
+  {
+    "name": "Elk River Area Food Co-op",
+    "streetAddress": "PO Box 64",
+    "locality": "Elk River",
+    "region": "MN",
+    "postalCode": "55330",
+    "lat": "45.337728",
+    "lon": "-93.569112",
+    "feature_id": "11266"
+  },
+  {
+    "name": "Taos Food Co-op",
+    "streetAddress": "314 Paseo Del Pueblo Norte",
+    "locality": "Taos",
+    "region": "NM",
+    "postalCode": "87571",
+    "lat": "36.411957",
+    "lon": "-105.569393",
+    "feature_id": "11231"
+  },
+  {
+    "name": "South Philly Food Co-op",
+    "streetAddress": "2031 S. Juniper St.",
+    "locality": "Philadelphia",
+    "region": "PA",
+    "postalCode": "19148",
+    "lat": "39.924537",
+    "lon": "-75.168173",
+    "feature_id": "15920"
+  },
+  {
+    "name": "Trillium Natural Foods Community Co-op",
+    "streetAddress": "513 Springdale Street",
+    "locality": "Mount Horeb",
+    "region": "WI",
+    "postalCode": "53572",
+    "lat": "43.008953",
+    "lon": "-89.733264",
+    "feature_id": "11228"
+  },
+  {
+    "name": "Orcas Food Co-op",
+    "streetAddress": "138 N. Beach Rd.",
+    "locality": "Eastsound",
+    "region": "WA",
+    "postalCode": "98245",
+    "lat": "48.695162",
+    "lon": "-122.905920",
+    "feature_id": "11225"
+  },
+  {
+    "name": "Blooming Prairie Foundation",
+    "streetAddress": "1457 E Washington Ave",
+    "locality": "Madison",
+    "region": "WI",
+    "postalCode": "53703",
+    "lat": "43.089424",
+    "lon": "-89.361843",
+    "feature_id": "6070"
+  },
+  {
+    "name": "SLO Natural Foods Co-op",
+    "streetAddress": "2494 Victoria Ave.",
+    "locality": "San Luis Obispo",
+    "region": "CA",
+    "postalCode": "93401",
+    "lat": "35.267286",
+    "lon": "-120.652460",
+    "feature_id": "5975"
+  },
+  {
+    "name": "Abundance Food Co-op",
+    "streetAddress": "571 South Avenue",
+    "locality": "Rochester",
+    "region": "NY",
+    "postalCode": "14620",
+    "lat": "43.144327",
+    "lon": "-77.605279",
+    "feature_id": "5972"
+  },
+  {
+    "name": "Good Foods Co-op",
+    "streetAddress": "455D Southland Drive",
+    "locality": "Lexington",
+    "region": "KY",
+    "postalCode": "40503",
+    "lat": "38.010336",
+    "lon": "-84.532704",
+    "feature_id": "5969"
+  },
+  {
+    "name": "Market Street Co-op",
+    "streetAddress": "26 Market Street",
+    "locality": "Fort Kent",
+    "region": "ME",
+    "postalCode": "04743",
+    "lat": "47.258650",
+    "lon": "-68.589491",
+    "feature_id": "5966"
+  },
+  {
+    "name": "Park Slope Food Coop",
+    "streetAddress": "782 Union St.",
+    "locality": "Brooklyn",
+    "region": "NY",
+    "postalCode": "11215",
+    "lat": "40.674760",
+    "lon": "-73.976866",
+    "feature_id": "5963"
+  },
+  {
+    "name": "Manchester Food Co-op",
+    "streetAddress": "PO Box 6114",
+    "locality": "Manchester",
+    "region": "NH",
+    "postalCode": "03108",
+    "lat": "42.950000",
+    "lon": "-71.440000",
+    "feature_id": "5958"
+  },
+  {
+    "name": "National Co+op Grocers – Portland, OR",
+    "streetAddress": "3934 NE Martin Luther King Jr Blvd, Suite 201",
+    "locality": "Portland",
+    "region": "OR",
+    "postalCode": "97212",
+    "lat": "45.551291",
+    "lon": "-122.661185",
+    "feature_id": "15115"
+  },
+  {
+    "name": "National Co+op Grocers – St. Paul, MN",
+    "streetAddress": "2610 University Ave W Suite 150",
+    "locality": "St. Paul",
+    "region": "MN",
+    "postalCode": "55114",
+    "lat": "44.966599",
+    "lon": "-93.205520",
+    "feature_id": "15071"
+  },
+  {
+    "name": "Hagerstown",
+    "streetAddress": "19946 National Pike",
+    "locality": "Hagerstown",
+    "region": "MD",
+    "postalCode": "21740",
+    "lat": "39.590644",
+    "lon": "-77.673702",
+    "feature_id": "13545"
+  },
+  {
+    "name": "Porter Avenue",
+    "streetAddress": "2 Porter Avenue",
+    "locality": "Brooklyn",
+    "region": "NY",
+    "postalCode": "11237",
+    "lat": "40.705320",
+    "lon": "-73.928446",
+    "feature_id": "13758"
+  },
+  {
+    "name": "National Co+op Grocers – Iowa City, IA",
+    "streetAddress": "14 S Linn St.",
+    "locality": "Iowa City",
+    "region": "IA",
+    "postalCode": "52240",
+    "lat": "41.660887",
+    "lon": "-91.530902",
+    "feature_id": "15068"
+  },
+  {
+    "name": "Wheatsfield Cooperative",
+    "streetAddress": "413 Northwestern Ave",
+    "locality": "Ames",
+    "region": "IA",
+    "postalCode": "50010",
+    "lat": "42.025223",
+    "lon": "-93.621490",
+    "feature_id": "14885"
+  },
+  {
+    "name": "Co-op Nation – 7th Gen Creations",
+    "streetAddress": "1073 Amber Drive",
+    "locality": "Byron Center",
+    "region": "MI",
+    "postalCode": "49315",
+    "lat": "42.837710",
+    "lon": "-85.689989",
+    "feature_id": "15935"
+  },
+  {
+    "name": "SoLA Food Co-op",
+    "streetAddress": "1847 W 43rd St.",
+    "locality": "Los Angeles",
+    "region": "CA",
+    "postalCode": "90062",
+    "lat": "34.005726",
+    "lon": "-118.313033",
+    "feature_id": "15917"
+  },
+  {
+    "name": "Free Range Food Co-op",
+    "streetAddress": "PO Box 842",
+    "locality": "Grand Rapids",
+    "region": "MI",
+    "postalCode": "55744",
+    "lat": "47.237166",
+    "lon": "-93.530214",
+    "feature_id": "15914"
+  },
+  {
+    "name": "Harvest Moon Co-op",
+    "streetAddress": "2380 W Wayzata Blvd.",
+    "locality": "Long Lake",
+    "region": "MN",
+    "postalCode": "55356",
+    "lat": "44.989849",
+    "lon": "-93.583403",
+    "feature_id": "15865"
+  },
+  {
+    "name": "Manna Food Co-op",
+    "streetAddress": "105 Barbara Ave",
+    "locality": "Detroit Lakes",
+    "region": "MN",
+    "postalCode": "56501",
+    "lat": "46.825922",
+    "lon": "-95.834553",
+    "feature_id": "15837"
+  },
+  {
+    "name": "Alaska Beauty Peony Cooperative",
+    "streetAddress": "PO Box 3406",
+    "locality": "Homer",
+    "region": "AK",
+    "postalCode": "99603",
+    "lat": "59.494878",
+    "lon": "-151.234821",
+    "feature_id": "15821"
+  },
+  {
+    "name": "University of Wisconsin Center for Cooperatives",
+    "streetAddress": "427 Lorch St.",
+    "locality": "Madison",
+    "region": "WI",
+    "postalCode": "53706",
+    "lat": "43.074303",
+    "lon": "-89.409366",
+    "feature_id": "15925"
+  },
+  {
+    "name": "Goodside Grocery",
+    "streetAddress": "1131 N 8th St.",
+    "locality": "Sheboygan",
+    "region": "WI",
+    "postalCode": "53081",
+    "lat": "43.757291",
+    "lon": "-87.712560",
+    "feature_id": "14907"
+  },
+  {
+    "name": "Good Tern Co-op",
+    "streetAddress": "750 Main Street",
+    "locality": "Rockland",
+    "region": "ME",
+    "postalCode": "04841",
+    "lat": "44.112128",
+    "lon": "-69.106733",
+    "feature_id": "14894"
+  },
+  {
+    "name": "Grassroots Local Market – Store Address ",
+    "streetAddress": "1300 Main Street",
+    "locality": "Lynchburg",
+    "region": "VA",
+    "postalCode": "24504",
+    "lat": "37.411609",
+    "lon": "-79.139047",
+    "feature_id": "14900"
+  },
+  {
+    "name": "Grassroots Local Market – startup mailing address",
+    "streetAddress": "PO Box 333",
+    "locality": "Lynchburg",
+    "region": "VA",
+    "postalCode": "24505",
+    "lat": "37.410000",
+    "lon": "-79.140000",
+    "feature_id": "14888"
+  },
+  {
+    "name": "Free Range Food Co-op",
+    "streetAddress": "PO Box 842",
+    "locality": "Grand Rapids",
+    "region": "MN",
+    "postalCode": "55744",
+    "lat": "47.122739",
+    "lon": "-93.471670",
+    "feature_id": "14880"
+  },
+  {
+    "name": "admin office",
+    "streetAddress": "PO Box 884",
+    "locality": "Elgin",
+    "region": "IL",
+    "postalCode": "60121",
+    "lat": "42.038413",
+    "lon": "-88.285451",
+    "feature_id": "13913"
+  },
+  {
+    "name": "Detroit People&#039;s Food Co-op",
+    "streetAddress": "11000 W, McNichols, Suite 311",
+    "locality": "Detroit",
+    "region": "MI",
+    "postalCode": "48221",
+    "lat": "42.416949",
+    "lon": "-83.169506",
+    "feature_id": "15911"
+  },
+  {
+    "name": "Green Top Grocery",
+    "streetAddress": "921 E. Washington St.",
+    "locality": "Bloomington",
+    "region": "IL",
+    "postalCode": "61701",
+    "lat": "40.479827",
+    "lon": "-88.980527",
+    "feature_id": "14871"
+  },
+  {
+    "name": "Cedar Falls Food Co-op",
+    "streetAddress": "P.O. Box 1002",
+    "locality": "Cedar Falls",
+    "region": "IA",
+    "postalCode": "50613",
+    "lat": "42.540765",
+    "lon": "-92.439759",
+    "feature_id": "14868"
+  },
+  {
+    "name": "Bay City Cooperative Market",
+    "streetAddress": "PO Box 32",
+    "locality": "Bay City",
+    "region": "MI",
+    "postalCode": "48707",
+    "lat": "43.600049",
+    "lon": "-83.887508",
+    "feature_id": "14865"
+  },
+  {
+    "name": "Island City Food Co-op &amp; Bakery",
+    "streetAddress": "1490 2nd Avenue Cumberland",
+    "locality": "Cumberland",
+    "region": "WI",
+    "postalCode": "54829",
+    "lat": "45.537059",
+    "lon": "-92.021436",
+    "feature_id": "14862"
+  },
+  {
+    "name": "Littleton Food Co-op",
+    "streetAddress": "43 Bethlehem Road",
+    "locality": "Littleton",
+    "region": "NH",
+    "postalCode": "03561",
+    "lat": "44.298394",
+    "lon": "-71.767788",
+    "feature_id": "14822"
+  },
+  {
+    "name": "Minnesota Street Market",
+    "streetAddress": "27 W. Minnesota St.",
+    "locality": "St. Joseph",
+    "region": "MN",
+    "postalCode": "56374",
+    "lat": "45.562188",
+    "lon": "-94.330348",
+    "feature_id": "14716"
+  },
+  {
+    "name": "New Leaf Market Co-op – main",
+    "streetAddress": "not yet determined",
+    "locality": "Green Bay",
+    "region": "WI",
+    "postalCode": "54302",
+    "lat": "44.490072",
+    "lon": "-87.976110",
+    "feature_id": "14691"
+  },
+  {
+    "name": "Admin office",
+    "streetAddress": "PO Box 83",
+    "locality": "Lombard",
+    "region": "IL",
+    "postalCode": "60148",
+    "lat": "41.886619",
+    "lon": "-88.018651",
+    "feature_id": "14306"
+  },
+  {
+    "name": "4 Ellsworth Road, Blue Hill, ME, 04614",
+    "streetAddress": "4 Ellsworth Rd.",
+    "locality": "Blue Hill",
+    "region": "ME",
+    "postalCode": "04614",
+    "lat": "44.415485",
+    "lon": "-68.583013",
+    "feature_id": "14289"
+  },
+  {
+    "name": "Admin office",
+    "streetAddress": "2823 E. Franklin Ave.",
+    "locality": "Minneapolis",
+    "region": "MN",
+    "postalCode": "55406",
+    "lat": "44.964226",
+    "lon": "-93.227887",
+    "feature_id": "14253"
+  },
+  {
+    "name": "Westminster St.",
+    "streetAddress": "1560 Westminster St.",
+    "locality": "Providence",
+    "region": "RI",
+    "postalCode": "02909",
+    "lat": "41.815837",
+    "lon": "-71.435430",
+    "feature_id": "14141"
+  },
+  {
+    "name": "National Co+op Grocers – Madison, WI",
+    "streetAddress": "131 W Wilson St, Suite 600",
+    "locality": "Madison",
+    "region": "WI",
+    "postalCode": "53703",
+    "lat": "43.070730",
+    "lon": "-89.383144",
+    "feature_id": "15070"
+  },
+  {
+    "name": "Ukiah Natural Foods Co-op",
+    "streetAddress": "721 South State Street",
+    "locality": "Ukiah",
+    "region": "CA",
+    "postalCode": "95482",
+    "lat": "39.143184",
+    "lon": "-123.205092",
+    "feature_id": "5953"
+  },
+  {
+    "name": "Chestnut Hill",
+    "streetAddress": "8424 Germantown Avenue",
+    "locality": "Philadelphia",
+    "region": "PA",
+    "postalCode": "19118",
+    "lat": "40.075476",
+    "lon": "-75.205770",
+    "feature_id": "5791"
+  },
+  {
+    "name": "Co-op Downtown",
+    "streetAddress": "44 E Main",
+    "locality": "Bozeman",
+    "region": "MT",
+    "postalCode": "59715",
+    "lat": "45.678938",
+    "lon": "-111.035903",
+    "feature_id": "5828"
+  },
+  {
+    "name": "The Sugar Beet",
+    "streetAddress": "812 W. Madison",
+    "locality": "Oak Park",
+    "region": "IL",
+    "postalCode": "60302",
+    "lat": "41.879776",
+    "lon": "-87.795521",
+    "feature_id": "11280"
+  },
+  {
+    "name": "Utah Co-op",
+    "streetAddress": "4892 S. Commerce Drive",
+    "locality": "Murray",
+    "region": "UT",
+    "postalCode": "",
+    "lat": "40.664965",
+    "lon": "-111.899480",
+    "feature_id": "5856"
+  },
+  {
+    "name": "First Alternative South",
+    "streetAddress": "1007 SE Third St.",
+    "locality": "Corvallis",
+    "region": "OR",
+    "postalCode": "97333",
+    "lat": "44.553814",
+    "lon": "-123.264512",
+    "feature_id": "5853"
+  },
+  {
+    "name": "First Alternative North",
+    "streetAddress": "2855 NW Grant Avenue",
+    "locality": "Corvallis",
+    "region": "OR",
+    "postalCode": "97330",
+    "lat": "44.578984",
+    "lon": "-123.282529",
+    "feature_id": "5852"
+  },
+  {
+    "name": "The Mustard Seed",
+    "streetAddress": "460 York Blvd",
+    "locality": "Hamilton",
+    "region": "ON",
+    "postalCode": "L8R 3J8",
+    "lat": "43.266030",
+    "lon": "-79.881727",
+    "feature_id": "5849"
+  },
+  {
+    "name": "Mariposa Food Co-op",
+    "streetAddress": "4824 Baltimore Ave.",
+    "locality": "Philadelphia",
+    "region": "PA",
+    "postalCode": "19143",
+    "lat": "39.947920",
+    "lon": "-75.220671",
+    "feature_id": "5846"
+  },
+  {
+    "name": "Mountain People&#039;s Co-op",
+    "streetAddress": "131 Pleasant Street",
+    "locality": "Morgantown",
+    "region": "WV",
+    "postalCode": "26505",
+    "lat": "39.629481",
+    "lon": "-79.958015",
+    "feature_id": "11291"
+  },
+  {
+    "name": "Maple City Market",
+    "streetAddress": "314 S. Main",
+    "locality": "Goshen",
+    "region": "IN",
+    "postalCode": "46526",
+    "lat": "41.582884",
+    "lon": "-85.833948",
+    "feature_id": "5840"
+  },
+  {
+    "name": "Hub City Co-op",
+    "streetAddress": "176 N. Liberty Street",
+    "locality": "Spartanburg",
+    "region": "SC",
+    "postalCode": "29306",
+    "lat": "34.951950",
+    "lon": "-81.930349",
+    "feature_id": "5837"
+  },
+  {
+    "name": "Hampden Park Co-op",
+    "streetAddress": "928 Raymond Avenue",
+    "locality": "St. Paul",
+    "region": "MN",
+    "postalCode": "55114",
+    "lat": "44.969027",
+    "lon": "-93.197573",
+    "feature_id": "5834"
+  },
+  {
+    "name": "Chatham Real Food Market",
+    "streetAddress": "15 Church St",
+    "locality": "Chatham",
+    "region": "NY",
+    "postalCode": "12037",
+    "lat": "42.356816",
+    "lon": "-73.601905",
+    "feature_id": "5831"
+  },
+  {
+    "name": "Co-op West Main",
+    "streetAddress": "908 W Main",
+    "locality": "Bozeman",
+    "region": "MT",
+    "postalCode": "59715",
+    "lat": "45.679037",
+    "lon": "-111.049689",
+    "feature_id": "5827"
+  },
+  {
+    "name": "Valley Food Co-op",
+    "streetAddress": "3211 Main St., Suite G",
+    "locality": "Alamosa",
+    "region": "CO",
+    "postalCode": "81101",
+    "lat": "37.475200",
+    "lon": "-105.894538",
+    "feature_id": "5865"
+  },
+  {
+    "name": "Rochester MN",
+    "streetAddress": "519 1st AVe. SW",
+    "locality": "Rochester",
+    "region": "MN",
+    "postalCode": "55902",
+    "lat": "44.017380",
+    "lon": "-92.464930",
+    "feature_id": "14089"
+  },
+  {
+    "name": "La Crosse, WI",
+    "streetAddress": "315 Fifth Ave. S.",
+    "locality": "La Crosse",
+    "region": "WI",
+    "postalCode": "54601",
+    "lat": "43.809366",
+    "lon": "-91.249737",
+    "feature_id": "5824"
+  },
+  {
+    "name": "Daily Groceries Co-op",
+    "streetAddress": "523 Prince Avenue",
+    "locality": "Athens",
+    "region": "GA",
+    "postalCode": "30601",
+    "lat": "33.960468",
+    "lon": "-83.387766",
+    "feature_id": "5821"
+  },
+  {
+    "name": "Assabet Village Food Cooperative, Inc.",
+    "streetAddress": "54 Main Street",
+    "locality": "Maynard",
+    "region": "MA",
+    "postalCode": "01754",
+    "lat": "42.432275",
+    "lon": "-71.452707",
+    "feature_id": "5818"
+  },
+  {
+    "name": "City Foods",
+    "streetAddress": "632 Main St",
+    "locality": "Lafayette",
+    "region": "IN",
+    "postalCode": "47901",
+    "lat": "40.419397",
+    "lon": "-86.889703",
+    "feature_id": "5815"
+  },
+  {
+    "name": "Baker Valley Food Co-op",
+    "streetAddress": "2008 Broadway St.",
+    "locality": "Baker City",
+    "region": "OR",
+    "postalCode": "97814",
+    "lat": "44.778138",
+    "lon": "-117.831115",
+    "feature_id": "5812"
+  },
+  {
+    "name": "MOON Co-op Natural Foods Market",
+    "streetAddress": "512 S. Locust St.",
+    "locality": "Oxford",
+    "region": "OH",
+    "postalCode": "45056",
+    "lat": "39.505115",
+    "lon": "-84.749434",
+    "feature_id": "5809"
+  },
+  {
+    "name": "Main Market Co-Op",
+    "streetAddress": "44 W. Main",
+    "locality": "Spokane",
+    "region": "WA",
+    "postalCode": "99201",
+    "lat": "47.659419",
+    "lon": "-117.412805",
+    "feature_id": "5806"
+  },
+  {
+    "name": "Niskayuna Consumers&#039; Cooperative",
+    "streetAddress": "2227 Nott St.",
+    "locality": "Schenectady",
+    "region": "NY",
+    "postalCode": "12309",
+    "lat": "42.815943",
+    "lon": "-73.893461",
+    "feature_id": "5803"
+  },
+  {
+    "name": "Wedge Community Co-op",
+    "streetAddress": "2105 Lyndale Av. S.",
+    "locality": "Minneapolis",
+    "region": "MN",
+    "postalCode": "55405",
+    "lat": "44.961425",
+    "lon": "-93.287542",
+    "feature_id": "5797"
+  },
+  {
+    "name": "Ever&#039;man Cooperative Grocery &amp; Cafe",
+    "streetAddress": "315 West Garden Street",
+    "locality": "Pensacola",
+    "region": "FL",
+    "postalCode": "32502-4729",
+    "lat": "30.410912",
+    "lon": "-87.226887",
+    "feature_id": "5794"
+  },
+  {
+    "name": "Kitsap Food Co-op",
+    "streetAddress": "851 6th St #140",
+    "locality": "Bremerton",
+    "region": "WA",
+    "postalCode": "98337",
+    "lat": "47.566777",
+    "lon": "-122.631759",
+    "feature_id": "5862"
+  },
+  {
+    "name": "Tacoma Food Co-op",
+    "streetAddress": "3002 6th Ave",
+    "locality": "Tacoma",
+    "region": "WA",
+    "postalCode": "98406",
+    "lat": "47.255253",
+    "lon": "-122.475274",
+    "feature_id": "5868"
+  },
+  {
+    "name": "Gardiner Food Co-op and Cafe",
+    "streetAddress": "269 Water St",
+    "locality": "Gardiner",
+    "region": "ME",
+    "postalCode": "04345",
+    "lat": "44.229655",
+    "lon": "-69.772883",
+    "feature_id": "5950"
+  },
+  {
+    "name": "Swarthmore Co-op",
+    "streetAddress": "341 Dartmouth Avenue",
+    "locality": "Swarthmore",
+    "region": "PA",
+    "postalCode": "19081",
+    "lat": "39.902243",
+    "lon": "-75.348900",
+    "feature_id": "5916"
+  },
+  {
+    "name": "Co-op Natural Foods ",
+    "streetAddress": "410 W 18th St",
+    "locality": "Sioux Falls",
+    "region": "SD",
+    "postalCode": "57104",
+    "lat": "43.537094",
+    "lon": "-96.732309",
+    "feature_id": "5947"
+  },
+  {
+    "name": "Daniels Way Store",
+    "streetAddress": "200 Daniels Way",
+    "locality": "Bloomington",
+    "region": "IN",
+    "postalCode": "47404",
+    "lat": "39.166734",
+    "lon": "-86.596938",
+    "feature_id": "5943"
+  },
+  {
+    "name": "6th Street Store",
+    "streetAddress": "316 W. 6th St.",
+    "locality": "Bloomington",
+    "region": "IN",
+    "postalCode": "47404-3912",
+    "lat": "39.167842",
+    "lon": "-86.537131",
+    "feature_id": "5940"
+  },
+  {
+    "name": "3rd Street Store",
+    "streetAddress": "3220 E. 3rd St.",
+    "locality": "Bloomington",
+    "region": "IN",
+    "postalCode": "47401",
+    "lat": "39.163847",
+    "lon": "-86.491080",
+    "feature_id": "5942"
+  },
+  {
+    "name": "Bloomingfoods Market and Deli Administration Offices",
+    "streetAddress": "316 W. 6th St.",
+    "locality": "Bloomington",
+    "region": "IN",
+    "postalCode": "47404",
+    "lat": "39.167842",
+    "lon": "-86.537131",
+    "feature_id": "5936"
+  },
+  {
+    "name": "Shared Capital Cooperative ",
+    "streetAddress": "2388 University Avenue W, Ste 300",
+    "locality": "St. Paul",
+    "region": "MN",
+    "postalCode": "55114",
+    "lat": "44.967043",
+    "lon": "-93.196839",
+    "feature_id": "12415"
+  },
+  {
+    "name": "Cooperative Development Foundation (CDF)",
+    "streetAddress": "1401 New York Ave., NW, Suite 1100",
+    "locality": "Washington",
+    "region": "DC",
+    "postalCode": "20005",
+    "lat": "38.899781",
+    "lon": "-77.032312",
+    "feature_id": "5931"
+  },
+  {
+    "name": "Durham Co-op Market",
+    "streetAddress": "1111 West Chapel Hill Street",
+    "locality": "Durham",
+    "region": "NC",
+    "postalCode": "27701",
+    "lat": "35.996435",
+    "lon": "-78.916603",
+    "feature_id": "5928"
+  },
+  {
+    "name": "Good Earth Food Co-op",
+    "streetAddress": "Centennial Plaza, 2010 Veterans Drive",
+    "locality": "St. Cloud",
+    "region": "MN",
+    "postalCode": "56303",
+    "lat": "45.571178",
+    "lon": "-94.193691",
+    "feature_id": "5925"
+  },
+  {
+    "name": "East Aurora Cooperative Market",
+    "streetAddress": "174 Main Street",
+    "locality": "East Aurora",
+    "region": "NY",
+    "postalCode": "14052",
+    "lat": "42.767833",
+    "lon": "-78.627638",
+    "feature_id": "5922"
+  },
+  {
+    "name": "Fiddleheads Food Co-op",
+    "streetAddress": "13 Broad Street",
+    "locality": "New London",
+    "region": "CT",
+    "postalCode": "06320",
+    "lat": "41.355962",
+    "lon": "-72.099776",
+    "feature_id": "5919"
+  },
+  {
+    "name": "Central Co-op",
+    "streetAddress": "1600 E. Madison",
+    "locality": "Seattle",
+    "region": "WA",
+    "postalCode": "98122",
+    "lat": "47.615327",
+    "lon": "-122.311231",
+    "feature_id": "5908"
+  },
+  {
+    "name": "Ashland Food Co-op",
+    "streetAddress": "237 N. First St.",
+    "locality": "Ashland",
+    "region": "OR",
+    "postalCode": "97520",
+    "lat": "42.198729",
+    "lon": "-122.711684",
+    "feature_id": "5871"
+  },
+  {
+    "name": "Kalamazoo People&#039;s Food Co-op",
+    "streetAddress": "507 Harrison Street",
+    "locality": "Kalamazoo",
+    "region": "MI",
+    "postalCode": "49007",
+    "lat": "42.296096",
+    "lon": "-85.574721",
+    "feature_id": "5905"
+  },
+  {
+    "name": "Portland Food Co-op (Maine)",
+    "streetAddress": "290 Congress Street",
+    "locality": "Portland",
+    "region": "ME",
+    "postalCode": "04101",
+    "lat": "43.661076",
+    "lon": "-70.252247",
+    "feature_id": "5902"
+  },
+  {
+    "name": "Hunger Mountain Cooperative",
+    "streetAddress": "623 Stone Cutters Way",
+    "locality": "Montpelier",
+    "region": "VT",
+    "postalCode": "05602",
+    "lat": "44.253137",
+    "lon": "-72.571691",
+    "feature_id": "5899"
+  },
+  {
+    "name": "NuWaters Co-op",
+    "streetAddress": "2320 Elgin Street",
+    "locality": "Houston",
+    "region": "TX",
+    "postalCode": "77004",
+    "lat": "29.734427",
+    "lon": "-95.365218",
+    "feature_id": "5896"
+  },
+  {
+    "name": "Neighboring Food Co-op Association",
+    "streetAddress": "PO Box 93",
+    "locality": "Shelburne Falls",
+    "region": "MA",
+    "postalCode": "01370",
+    "lat": "42.582160",
+    "lon": "-72.722655",
+    "feature_id": "15121"
+  },
+  {
+    "name": "South Lamar",
+    "streetAddress": "4001 S. Lamar Blvd",
+    "locality": "Austin",
+    "region": "TX",
+    "postalCode": "78704",
+    "lat": "30.235115",
+    "lon": "-97.791397",
+    "feature_id": "12426"
+  },
+  {
+    "name": "Guadalupe Street",
+    "streetAddress": "3101 Guadalupe St.",
+    "locality": "Austin",
+    "region": "TX",
+    "postalCode": "78705",
+    "lat": "30.297524",
+    "lon": "-97.741024",
+    "feature_id": "5888"
+  },
+  {
+    "name": "Weaver Street Market, Southern Village",
+    "streetAddress": "716 Market St.",
+    "locality": "Chapel Hill",
+    "region": "NC",
+    "postalCode": "27515",
+    "lat": "35.910000",
+    "lon": "-79.060000",
+    "feature_id": "5885"
+  },
+  {
+    "name": "Weaver Street Market in Hillsborough",
+    "streetAddress": "228 S Churton Street",
+    "locality": "Hillsborough",
+    "region": "NC",
+    "postalCode": "27278",
+    "lat": "36.073590",
+    "lon": "-79.099737",
+    "feature_id": "5884"
+  },
+  {
+    "name": "Weaver Street Market - Admin",
+    "streetAddress": "437 Dimmocks Mill Rd.",
+    "locality": "Hillsborough",
+    "region": "NC",
+    "postalCode": "27278",
+    "lat": "36.070575",
+    "lon": "-79.113462",
+    "feature_id": "5883"
+  },
+  {
+    "name": "Grass Roots Cooperative",
+    "streetAddress": "1917 2nd Ave. S.",
+    "locality": "Anoka",
+    "region": "MN",
+    "postalCode": "55303",
+    "lat": "45.196950",
+    "lon": "-93.389393",
+    "feature_id": "5880"
+  },
+  {
+    "name": "Rainbow Plaza",
+    "streetAddress": "2807 Old Canton Road",
+    "locality": "Jackson",
+    "region": "MS",
+    "postalCode": "39216",
+    "lat": "32.334056",
+    "lon": "-90.175159",
+    "feature_id": "5877"
+  },
+  {
+    "name": "Natural Food Co-op",
+    "streetAddress": "249 Main St",
+    "locality": "Chadron",
+    "region": "NE",
+    "postalCode": "69337",
+    "lat": "42.829954",
+    "lon": "-103.000570",
+    "feature_id": "5444"
+  },
+  {
+    "name": "Kent Natural Foods Co-op",
+    "streetAddress": "151 E. Main St.",
+    "locality": "Kent",
+    "region": "OH",
+    "postalCode": "44240",
+    "lat": "41.153994",
+    "lon": "-81.357082",
+    "feature_id": "5438"
+  },
+  {
+    "name": "Sno-Isle Natural Foods Co-op",
+    "streetAddress": "2804 Grand Ave",
+    "locality": "Everett",
+    "region": "WA",
+    "postalCode": "98201",
+    "lat": "47.980335",
+    "lon": "-122.213446",
+    "feature_id": "4758"
+  },
+  {
+    "name": "Willy Street Co-op",
+    "streetAddress": "1221 Williamson St.",
+    "locality": "Madison",
+    "region": "WI",
+    "postalCode": "53703",
+    "lat": "43.083705",
+    "lon": "-89.362873",
+    "feature_id": "4977"
+  },
+  {
+    "name": "Citizens Co-op",
+    "streetAddress": "435 S. Main",
+    "locality": "Gainesville",
+    "region": "FL",
+    "postalCode": "32601",
+    "lat": "29.647313",
+    "lon": "-82.324788",
+    "feature_id": "5011"
+  },
+  {
+    "name": "Placerville Foods Co-op",
+    "streetAddress": "535 Placerville Dr",
+    "locality": "Placerville",
+    "region": "CA",
+    "postalCode": "95667",
+    "lat": "38.733374",
+    "lon": "-120.826193",
+    "feature_id": "5005"
+  },
+  {
+    "name": "Prairie Roots Food Co-op",
+    "streetAddress": "PO Box 5434",
+    "locality": "Fargo",
+    "region": "ND",
+    "postalCode": "58105",
+    "lat": "46.893936",
+    "lon": "-96.805787",
+    "feature_id": "5002"
+  },
+  {
+    "name": "Clintonville Community Market",
+    "streetAddress": "200 Crestview Road",
+    "locality": "Columbus",
+    "region": "OH",
+    "postalCode": "43202",
+    "lat": "40.022494",
+    "lon": "-83.007802",
+    "feature_id": "4999"
+  },
+  {
+    "name": "Upstate Food Co-op",
+    "streetAddress": "404 John Holliday Road",
+    "locality": "Six Mile",
+    "region": "SC",
+    "postalCode": "29682",
+    "lat": "34.794318",
+    "lon": "-82.796360",
+    "feature_id": "4996"
+  },
+  {
+    "name": "RiverLoop Co-op",
+    "streetAddress": "327 W. 3rd St.",
+    "locality": "Waterloo",
+    "region": "IA",
+    "postalCode": "50704",
+    "lat": "42.490000",
+    "lon": "-92.340000",
+    "feature_id": "4993"
+  },
+  {
+    "name": "Mountain Lakes",
+    "streetAddress": "10 Vale Drive",
+    "locality": "Mountain Lakes",
+    "region": "NJ",
+    "postalCode": "07046",
+    "lat": "40.892394",
+    "lon": "-74.434976",
+    "feature_id": "4990"
+  },
+  {
+    "name": "Oryana Natural Foods Market",
+    "streetAddress": "260 East 10th St.",
+    "locality": "Traverse City",
+    "region": "MI",
+    "postalCode": "49684",
+    "lat": "44.757020",
+    "lon": "-85.618710",
+    "feature_id": "4987"
+  },
+  {
+    "name": "Stone Valley Community Market",
+    "streetAddress": "216 Main Street",
+    "locality": "Poultney",
+    "region": "VT",
+    "postalCode": "05764",
+    "lat": "43.517193",
+    "lon": "-73.237167",
+    "feature_id": "4984"
+  },
+  {
+    "name": "Amazing Grains",
+    "streetAddress": "214 DeMers",
+    "locality": "Grand Forks",
+    "region": "ND",
+    "postalCode": "58201",
+    "lat": "47.925721",
+    "lon": "-97.030362",
+    "feature_id": "4981"
+  },
+  {
+    "name": "Willy Street Co-op (University Ave)",
+    "streetAddress": "6825 University Ave",
+    "locality": "Middleton",
+    "region": "WI",
+    "postalCode": "53562",
+    "lat": "43.096448",
+    "lon": "-89.500408",
+    "feature_id": "4978"
+  },
+  {
+    "name": "Isla Vista Food Co-op",
+    "streetAddress": "6575 Seville Rd.",
+    "locality": "Isla Vista",
+    "region": "CA",
+    "postalCode": "93117",
+    "lat": "34.413329",
+    "lon": "-119.860972",
+    "feature_id": "4974"
+  },
+  {
+    "name": "California Center for Cooperative Development",
+    "streetAddress": "979 F Street, Suite A-1",
+    "locality": "Davis",
+    "region": "CA",
+    "postalCode": "95616",
+    "lat": "38.553042",
+    "lon": "-121.742795",
+    "feature_id": "5017"
+  },
+  {
+    "name": "Spring Crocus Community Market Co-op",
+    "streetAddress": "PO Box 92048wvpo",
+    "locality": "West Vancouver",
+    "region": "BC",
+    "postalCode": "V7V 4X4",
+    "lat": "49.337749",
+    "lon": "-123.177522",
+    "feature_id": "4971"
+  },
+  {
+    "name": "New Orleans, Louisiana",
+    "streetAddress": "2372 St. Claude Avenue, Suite 110",
+    "locality": "New Orleans",
+    "region": "LA",
+    "postalCode": "70117",
+    "lat": "29.968603",
+    "lon": "-90.052400",
+    "feature_id": "4968"
+  },
+  {
+    "name": "Sacramento Natural Foods Co-op",
+    "streetAddress": "1900 Alhambra Blvd.",
+    "locality": "Sacramento",
+    "region": "CA",
+    "postalCode": "95816",
+    "lat": "38.562678",
+    "lon": "-121.470057",
+    "feature_id": "4965"
+  },
+  {
+    "name": "Harvest Co-op Markets (Washington St)",
+    "streetAddress": "3815 Washington St.",
+    "locality": "Jaimaica Plain",
+    "region": "MA",
+    "postalCode": "02130",
+    "lat": "42.309700",
+    "lon": "-71.104600",
+    "feature_id": "4962"
+  },
+  {
+    "name": "Jamaica Plain",
+    "streetAddress": "57 South Street",
+    "locality": "Jamaica Plain",
+    "region": "MA",
+    "postalCode": "02130",
+    "lat": "42.309006",
+    "lon": "-71.115146",
+    "feature_id": "4961"
+  },
+  {
+    "name": "Harvest Co-op Markets",
+    "streetAddress": "580 Massachusetts Av.",
+    "locality": "Cambridge",
+    "region": "MA",
+    "postalCode": "02139",
+    "lat": "42.364628",
+    "lon": "-71.102992",
+    "feature_id": "4960"
+  },
+  {
+    "name": "Imperial Beach, CA",
+    "streetAddress": "PO Box 2072",
+    "locality": "Imperial Beach",
+    "region": "CA",
+    "postalCode": "91933-2072",
+    "lat": "32.582574",
+    "lon": "-117.113479",
+    "feature_id": "15083"
+  },
+  {
+    "name": "Whole Foods Co-op",
+    "streetAddress": "1341 W. 26th St.",
+    "locality": "Erie",
+    "region": "PA",
+    "postalCode": "16508",
+    "lat": "42.101211",
+    "lon": "-80.101534",
+    "feature_id": "4954"
+  },
+  {
+    "name": "Monadnock Food Co-op",
+    "streetAddress": "34 Cypress Street",
+    "locality": "Keene",
+    "region": "NH",
+    "postalCode": "03431",
+    "lat": "42.931934",
+    "lon": "-72.277344",
+    "feature_id": "4948"
+  },
+  {
+    "name": "East End Food Co-op",
+    "streetAddress": "7516 Meade Street",
+    "locality": "Pittsburgh",
+    "region": "PA",
+    "postalCode": "15208",
+    "lat": "40.448199",
+    "lon": "-79.895475",
+    "feature_id": "4945"
+  },
+  {
+    "name": "Natural Abundance",
+    "streetAddress": "125 S. Main St.",
+    "locality": "Aberdeen",
+    "region": "SD",
+    "postalCode": "57401",
+    "lat": "45.463360",
+    "lon": "-98.488034",
+    "feature_id": "4942"
+  },
+  {
+    "name": "Just Food Co-op",
+    "streetAddress": "516 S. Water St.",
+    "locality": "Northfield",
+    "region": "MN",
+    "postalCode": "55057",
+    "lat": "44.454398",
+    "lon": "-93.162210",
+    "feature_id": "5014"
+  },
+  {
+    "name": "Valley Market",
+    "streetAddress": "P.O. Box 23",
+    "locality": "Staunton",
+    "region": "VA",
+    "postalCode": "24402-0023",
+    "lat": "38.150000",
+    "lon": "-79.070000",
+    "feature_id": "5022"
+  },
+  {
+    "name": "Moonflower Community Co-op",
+    "streetAddress": "39 East 100 North",
+    "locality": "Moab",
+    "region": "UT",
+    "postalCode": "84532",
+    "lat": "38.571488",
+    "lon": "-109.550964",
+    "feature_id": "4936"
+  },
+  {
+    "name": "Magpie Natural Food Co-op &amp; Buying Club",
+    "streetAddress": "500 West Gurley Street",
+    "locality": "Prescott",
+    "region": "AZ",
+    "postalCode": "86301",
+    "lat": "34.542234",
+    "lon": "-112.475390",
+    "feature_id": "5073"
+  },
+  {
+    "name": "Food Conspiracy Co-op",
+    "streetAddress": "412 N 4th Avenue",
+    "locality": "Tucson",
+    "region": "AZ",
+    "postalCode": "85705-8443",
+    "lat": "32.279976",
+    "lon": "-110.965224",
+    "feature_id": "5114"
+  },
+  {
+    "name": "Berkshire Co-op Market",
+    "streetAddress": "42 Bridge Street",
+    "locality": "Great Barrington",
+    "region": "MA",
+    "postalCode": "01230",
+    "lat": "42.195980",
+    "lon": "-73.362008",
+    "feature_id": "5103"
+  },
+  {
+    "name": "Belfast Co-op",
+    "streetAddress": "123 High Street",
+    "locality": "Belfast",
+    "region": "ME",
+    "postalCode": "04915",
+    "lat": "44.426334",
+    "lon": "-69.005447",
+    "feature_id": "5100"
+  },
+  {
+    "name": "Montavilla Food Co-op",
+    "streetAddress": "8604 NE Beech Street",
+    "locality": "Portland",
+    "region": "OR",
+    "postalCode": "97220",
+    "lat": "45.549357",
+    "lon": "-122.574666",
+    "feature_id": "5097"
+  },
+  {
+    "name": "Eat Local Sudbury Cooperative",
+    "streetAddress": "176 rue Larch Street",
+    "locality": "Sudbury",
+    "region": "ON",
+    "postalCode": "P3C 1E5",
+    "lat": "46.482309",
+    "lon": "-81.014924",
+    "feature_id": "5094"
+  },
+  {
+    "name": "Wintergreen Natural Foods",
+    "streetAddress": "1442 W Main Street",
+    "locality": "Albert Lea",
+    "region": "MN",
+    "postalCode": "56007",
+    "lat": "43.646629",
+    "lon": "-93.389508",
+    "feature_id": "5091"
+  },
+  {
+    "name": "Community Market Cooperative",
+    "streetAddress": "2622 140th Street",
+    "locality": "Audubon",
+    "region": "IA",
+    "postalCode": "50025",
+    "lat": "41.805660",
+    "lon": "-94.802108",
+    "feature_id": "5088"
+  },
+  {
+    "name": "Light Foods Co-op",
+    "streetAddress": "73 Church St.",
+    "locality": "Malverne",
+    "region": "NY",
+    "postalCode": "11565",
+    "lat": "40.676073",
+    "lon": "-73.667388",
+    "feature_id": "5085"
+  },
+  {
+    "name": "South Bronx Food Co-op",
+    "streetAddress": "3103 Third Ave.",
+    "locality": "Bronx",
+    "region": "NY",
+    "postalCode": "10451",
+    "lat": "40.821841",
+    "lon": "-73.912305",
+    "feature_id": "5082"
+  },
+  {
+    "name": "Big Hollow Food Co-op",
+    "streetAddress": "119 S 1st Street",
+    "locality": "Laramie",
+    "region": "WY",
+    "postalCode": "82070",
+    "lat": "41.312355",
+    "lon": "-105.595793",
+    "feature_id": "5079"
+  },
+  {
+    "name": "Market Community Cooperative",
+    "streetAddress": "1610 Hill Ave.",
+    "locality": "Spirit Lake",
+    "region": "IA",
+    "postalCode": "51360",
+    "lat": "43.424367",
+    "lon": "-95.102281",
+    "feature_id": "5076"
+  },
+  {
+    "name": "Mohawk Harvest Cooperative",
+    "streetAddress": "51 N. Main St.",
+    "locality": "Gloversville",
+    "region": "NY",
+    "postalCode": "",
+    "lat": "43.051918",
+    "lon": "-74.344577",
+    "feature_id": "5070"
+  },
+  {
+    "name": "Wild Root Market",
+    "streetAddress": "PO Box 443",
+    "locality": "Racine",
+    "region": "WI",
+    "postalCode": "",
+    "lat": "42.726131",
+    "lon": "-87.782852",
+    "feature_id": "5025"
+  },
+  {
+    "name": "Mandela Foods Cooperative",
+    "streetAddress": "1430 Seventh Street",
+    "locality": "Oakland",
+    "region": "CA",
+    "postalCode": "94607",
+    "lat": "37.805350",
+    "lon": "-122.294174",
+    "feature_id": "5067"
+  },
+  {
+    "name": "Carbondale Community Food Co-op",
+    "streetAddress": "559 Main St.",
+    "locality": "Carbondale",
+    "region": "CO",
+    "postalCode": "81623",
+    "lat": "39.402205",
+    "lon": "-107.211163",
+    "feature_id": "5064"
+  },
+  {
+    "name": "Sunsets West Co-op",
+    "streetAddress": "16795 Hwy 112",
+    "locality": "Clallam Bay",
+    "region": "WA",
+    "postalCode": "98326",
+    "lat": "48.252300",
+    "lon": "-124.258828",
+    "feature_id": "5061"
+  },
+  {
+    "name": "Lost River Market &amp; Deli",
+    "streetAddress": "26 Library Street",
+    "locality": "Paoli",
+    "region": "IN",
+    "postalCode": "47454",
+    "lat": "38.556873",
+    "lon": "-86.467469",
+    "feature_id": "5058"
+  },
+  {
+    "name": "Yahara River Grocery Co-op",
+    "streetAddress": "229 East Main St.",
+    "locality": "Stoughton",
+    "region": "WI",
+    "postalCode": "53589",
+    "lat": "42.916484",
+    "lon": "-89.218691",
+    "feature_id": "5052"
+  },
+  {
+    "name": "Brattleboro Food Co-op",
+    "streetAddress": "2 Main Street",
+    "locality": "Brattleboro",
+    "region": "VT",
+    "postalCode": "05301",
+    "lat": "42.850492",
+    "lon": "-72.558011",
+    "feature_id": "11252"
+  },
+  {
+    "name": "BriarPatch Co-op Community Market",
+    "streetAddress": "290A Sierra College Drive",
+    "locality": "Grass Valley",
+    "region": "CA",
+    "postalCode": "95945",
+    "lat": "39.234630",
+    "lon": "-121.052638",
+    "feature_id": "5046"
+  },
+  {
+    "name": "Littleton Food Co-op",
+    "streetAddress": "43 Bethlehem Road",
+    "locality": "Littleton",
+    "region": "NH",
+    "postalCode": "03561",
+    "lat": "44.298284",
+    "lon": "-71.767853",
+    "feature_id": "5040"
+  },
+  {
+    "name": "Deep Roots Market",
+    "streetAddress": "600 N Eugene Street",
+    "locality": "Greensboro",
+    "region": "NC",
+    "postalCode": "27401",
+    "lat": "36.067604",
+    "lon": "-79.756811",
+    "feature_id": "5037"
+  },
+  {
+    "name": "Winter Co-op",
+    "streetAddress": "5159 Main Street, PO Box 280",
+    "locality": "Winter",
+    "region": "WI",
+    "postalCode": "54896",
+    "lat": "45.821634",
+    "lon": "-91.011474",
+    "feature_id": "5034"
+  },
+  {
+    "name": "Duck Soup Co-op",
+    "streetAddress": "129 E Hillcrest Drive",
+    "locality": "DeKalb",
+    "region": "IL",
+    "postalCode": "60115",
+    "lat": "41.941530",
+    "lon": "-88.748434",
+    "feature_id": "5031"
+  },
+  {
+    "name": "People&#039;s Food Co-op (Portland, OR)",
+    "streetAddress": "3029 SE 21st Ave",
+    "locality": "Portland",
+    "region": "OR",
+    "postalCode": "97202",
+    "lat": "45.500833",
+    "lon": "-122.644919",
+    "feature_id": "5028"
+  },
+  {
+    "name": "South County Food Co-op [Alternative Food Co-op]",
+    "streetAddress": "357 Main St.",
+    "locality": "Wakefield",
+    "region": "RI",
+    "postalCode": "02880",
+    "lat": "41.440039",
+    "lon": "-71.487397",
+    "feature_id": "4939"
+  },
+  {
+    "name": "Fare Share Co-op",
+    "streetAddress": "443 Main Street",
+    "locality": "Norway",
+    "region": "ME",
+    "postalCode": "04268",
+    "lat": "44.214151",
+    "lon": "-70.542929",
+    "feature_id": "4933"
+  },
+  {
+    "name": "Coos Head Food Co-op",
+    "streetAddress": "353 S 2nd St",
+    "locality": "Coos Bay",
+    "region": "OR",
+    "postalCode": "97420",
+    "lat": "43.365103",
+    "lon": "-124.214964",
+    "feature_id": "5123"
+  },
+  {
+    "name": "Seward Community Co-op – Franklin",
+    "streetAddress": "2823 E. Franklin Av.",
+    "locality": "Minneapolis",
+    "region": "MN",
+    "postalCode": "55406",
+    "lat": "44.962545",
+    "lon": "-93.230280",
+    "feature_id": "4803"
+  },
+  {
+    "name": "East End Food Co-op - Vancouver",
+    "streetAddress": "1034 Commercial Drive",
+    "locality": "Vancouver",
+    "region": "BC",
+    "postalCode": "V5L 4J6",
+    "lat": "49.276858",
+    "lon": "-123.063798",
+    "feature_id": "4845"
+  },
+  {
+    "name": "GreenStar Oasis",
+    "streetAddress": "215 N. Cayuga St.",
+    "locality": "Ithaca",
+    "region": "NY",
+    "postalCode": "14850",
+    "lat": "42.440865",
+    "lon": "-76.498537",
+    "feature_id": "4842"
+  },
+  {
+    "name": "West-End Store",
+    "streetAddress": "701 W Buffalo Street",
+    "locality": "Ithaca",
+    "region": "NY",
+    "postalCode": "14850",
+    "lat": "42.440705",
+    "lon": "-76.511093",
+    "feature_id": "4841"
+  },
+  {
+    "name": "Food Co-op Initiative",
+    "streetAddress": "12345 Goodhue Ave.",
+    "locality": "Dennison",
+    "region": "MN",
+    "postalCode": "55018",
+    "lat": "44.406054",
+    "lon": "-93.039370",
+    "feature_id": "7789"
+  },
+  {
+    "name": "Kootenay Country Store Cooperative  ",
+    "streetAddress": "777 Baker Street",
+    "locality": "Nelson",
+    "region": "BC",
+    "postalCode": "V1L 4J5",
+    "lat": "49.493850",
+    "lon": "-117.290724",
+    "feature_id": "4824"
+  },
+  {
+    "name": "Medford Food Co-op",
+    "streetAddress": "945 S. Riverside",
+    "locality": "Medford",
+    "region": "OR",
+    "postalCode": "97501",
+    "lat": "42.317817",
+    "lon": "-122.863436",
+    "feature_id": "4816"
+  },
+  {
+    "name": "GreenTree Cooperative Grocery",
+    "streetAddress": "214 N Franklin",
+    "locality": "Mt. Pleasant",
+    "region": "MI",
+    "postalCode": "48858",
+    "lat": "43.605815",
+    "lon": "-84.774580",
+    "feature_id": "4813"
+  },
+  {
+    "name": "Coralville",
+    "streetAddress": "1101 2nd Street",
+    "locality": "Coralville",
+    "region": "IA",
+    "postalCode": "52241",
+    "lat": "41.685317",
+    "lon": "-91.577189",
+    "feature_id": "4807"
+  },
+  {
+    "name": "New Pioneer Food Co-op",
+    "streetAddress": "22 S. Van Buren St.",
+    "locality": "Iowa City",
+    "region": "IA",
+    "postalCode": "52240",
+    "lat": "41.660502",
+    "lon": "-91.528421",
+    "feature_id": "4806"
+  },
+  {
+    "name": "Seward Community Co-op – Creamery Café",
+    "streetAddress": "2601 East Franklin Avenue",
+    "locality": "Minneapolis",
+    "region": "MN",
+    "postalCode": "55406",
+    "lat": "44.962584",
+    "lon": "-93.234266",
+    "feature_id": "14884"
+  },
+  {
+    "name": "Seward Community Co-op – Friendship ",
+    "streetAddress": "317 East 38th Street",
+    "locality": "Minneapolis",
+    "region": "MN",
+    "postalCode": "55409",
+    "lat": "44.933968",
+    "lon": "-93.271822",
+    "feature_id": "14883"
+  },
+  {
+    "name": "Riverbend Market Co-op",
+    "streetAddress": "417 Main Street",
+    "locality": "Red Wing",
+    "region": "MN",
+    "postalCode": "",
+    "lat": "44.565322",
+    "lon": "-92.535357",
+    "feature_id": "4800"
+  },
+  {
+    "name": "Cook County Whole Foods Co-op",
+    "streetAddress": "20 E First Street",
+    "locality": "Grand Marais",
+    "region": "MN",
+    "postalCode": "55604",
+    "lat": "47.750447",
+    "lon": "-90.334273",
+    "feature_id": "4851"
+  },
+  {
+    "name": "Ocean Beach People&#039;s Organic Food Market",
+    "streetAddress": "4765 Voltaire St.",
+    "locality": "San Diego",
+    "region": "CA",
+    "postalCode": "92107",
+    "lat": "32.749473",
+    "lon": "-117.242897",
+    "feature_id": "4797"
+  },
+  {
+    "name": "Food Co-op Friends and Scholars",
+    "streetAddress": "2600 East Franklin Ave.",
+    "locality": "Minneapolis",
+    "region": "MN",
+    "postalCode": "55406",
+    "lat": "44.962991",
+    "lon": "-93.234171",
+    "feature_id": "7788"
+  },
+  {
+    "name": "Marquette Food Co-op",
+    "streetAddress": "109 W Baraga Ave.",
+    "locality": "Marquette",
+    "region": "MI",
+    "postalCode": "49855",
+    "lat": "46.540773",
+    "lon": "-87.393733",
+    "feature_id": "4792"
+  },
+  {
+    "name": "Tidal Creek Food Co-op",
+    "streetAddress": "5329 Oleander Dr.",
+    "locality": "Wilmington",
+    "region": "NC",
+    "postalCode": "28403",
+    "lat": "34.209021",
+    "lon": "-77.860825",
+    "feature_id": "4789"
+  },
+  {
+    "name": "Viroqua Food Co-op",
+    "streetAddress": "609 N. Main Street",
+    "locality": "Viroqua",
+    "region": "WI",
+    "postalCode": "54665",
+    "lat": "43.560529",
+    "lon": "-90.888879",
+    "feature_id": "4786"
+  },
+  {
+    "name": "Old Creamery Co-op",
+    "streetAddress": "445 Berkshire Trail (Rt. 9)",
+    "locality": "Cummington",
+    "region": "MA",
+    "postalCode": "01026",
+    "lat": "42.459188",
+    "lon": "-72.891371",
+    "feature_id": "4783"
+  },
+  {
+    "name": "The Merc (Community Mercantile)",
+    "streetAddress": "901 Iowa St.",
+    "locality": "Lawrence",
+    "region": "KS",
+    "postalCode": "66044",
+    "lat": "38.967534",
+    "lon": "-95.261421",
+    "feature_id": "4780"
+  },
+  {
+    "name": "Urban Acres Market",
+    "streetAddress": "1605 North Beckley Avenue",
+    "locality": "Dallas",
+    "region": "TX",
+    "postalCode": "75203",
+    "lat": "32.764095",
+    "lon": "-96.823214",
+    "feature_id": "4777"
+  },
+  {
+    "name": "Willmar Community-Owned Grocery",
+    "streetAddress": "PO Box 287",
+    "locality": "Willmar",
+    "region": "MN",
+    "postalCode": "56201",
+    "lat": "45.075430",
+    "lon": "-95.050921",
+    "feature_id": "4771"
+  },
+  {
+    "name": "Los Alamos Cooperative Market",
+    "streetAddress": "95 Entrada Drive",
+    "locality": "Los Alamos",
+    "region": "NM",
+    "postalCode": "87544",
+    "lat": "35.876775",
+    "lon": "-106.260883",
+    "feature_id": "4764"
+  },
+  {
+    "name": "Potsdam Food Co-op",
+    "streetAddress": "24 Elm St.",
+    "locality": "Potsdam",
+    "region": "NY",
+    "postalCode": "13676",
+    "lat": "44.670163",
+    "lon": "-74.983149",
+    "feature_id": "4761"
+  },
+  {
+    "name": "Doylestown Food Co-op",
+    "streetAddress": "P.O. Box 951",
+    "locality": "Doylestown",
+    "region": "PA",
+    "postalCode": "18901",
+    "lat": "40.296569",
+    "lon": "-75.157046",
+    "feature_id": "4848"
+  },
+  {
+    "name": "Co-opportunity Natural Foods",
+    "streetAddress": "1525 Broadway",
+    "locality": "Santa Monica",
+    "region": "CA",
+    "postalCode": "90404",
+    "lat": "34.024321",
+    "lon": "-118.482805",
+    "feature_id": "4854"
+  },
+  {
+    "name": "Spiral Foods Cooperative",
+    "streetAddress": "PO Box 201",
+    "locality": "Graton",
+    "region": "CA",
+    "postalCode": "95444",
+    "lat": "38.436199",
+    "lon": "-122.872928",
+    "feature_id": "4930"
+  },
+  {
+    "name": "East 7th Street",
+    "streetAddress": "740 7th St. E.",
+    "locality": "St. Paul",
+    "region": "MN",
+    "postalCode": "55106",
+    "lat": "44.959166",
+    "lon": "-93.070558",
+    "feature_id": "11241"
+  },
+  {
+    "name": "McCusker&#039;s Market",
+    "streetAddress": "3 State Street",
+    "locality": "Shelburne Falls",
+    "region": "MA",
+    "postalCode": "01370",
+    "lat": "42.611724",
+    "lon": "-72.738923",
+    "feature_id": "4927"
+  },
+  {
+    "name": "Green Fields Market",
+    "streetAddress": "1442 W Main Street",
+    "locality": "Greenfield",
+    "region": "MA",
+    "postalCode": "01301",
+    "lat": "42.587965",
+    "lon": "-72.601955",
+    "feature_id": "4926"
+  },
+  {
+    "name": "French Broad Food Co-op",
+    "streetAddress": "90 Biltmore Avenue",
+    "locality": "Asheville",
+    "region": "NC",
+    "postalCode": "28801",
+    "lat": "35.591698",
+    "lon": "-82.550510",
+    "feature_id": "4920"
+  },
+  {
+    "name": "Linden Hills Co-op",
+    "streetAddress": "3815 Sunnyside Ave",
+    "locality": "Minneapolis",
+    "region": "MN",
+    "postalCode": "55410",
+    "lat": "44.921951",
+    "lon": "-93.328474",
+    "feature_id": "4917"
+  },
+  {
+    "name": "Friendly City Food Co-op",
+    "streetAddress": "150 E Wolfe Street",
+    "locality": "Harrisonburg",
+    "region": "VA",
+    "postalCode": "22801",
+    "lat": "38.449569",
+    "lon": "-78.868916",
+    "feature_id": "4914"
+  },
+  {
+    "name": "Durham Central Market",
+    "streetAddress": "tbd",
+    "locality": "Durham",
+    "region": "NC",
+    "postalCode": "",
+    "lat": "35.904172",
+    "lon": "-78.940602",
+    "feature_id": "4911"
+  },
+  {
+    "name": "Durango Natural Foods Co-op",
+    "streetAddress": "575 E 8th Avenue",
+    "locality": "Durango",
+    "region": "CO",
+    "postalCode": "81301",
+    "lat": "37.267969",
+    "lon": "-107.872513",
+    "feature_id": "4908"
+  },
+  {
+    "name": "Durham Central Market",
+    "streetAddress": "tbd",
+    "locality": "Durham",
+    "region": "NC",
+    "postalCode": "",
+    "lat": "35.904172",
+    "lon": "-78.940602",
+    "feature_id": "4905"
+  },
+  {
+    "name": "Grain Train Natural Foods Markets",
+    "streetAddress": "220 E Mitchell Street",
+    "locality": "Petoskey",
+    "region": "MI",
+    "postalCode": "49770",
+    "lat": "45.373676",
+    "lon": "-84.957650",
+    "feature_id": "4902"
+  },
+  {
+    "name": "Davis Food Co-op",
+    "streetAddress": "620 G Street",
+    "locality": "Davis",
+    "region": "CA",
+    "postalCode": "95616",
+    "lat": "38.549410",
+    "lon": "-121.739945",
+    "feature_id": "4899"
+  },
+  {
+    "name": "Glens Falls Food Cooperative",
+    "streetAddress": "1338 Saratoga Rd.",
+    "locality": "Gansevoort",
+    "region": "NY",
+    "postalCode": "12831",
+    "lat": "43.185413",
+    "lon": "-73.741967",
+    "feature_id": "4896"
+  },
+  {
+    "name": "West Seventh",
+    "streetAddress": "1500 W. 7th Street",
+    "locality": "St. Paul",
+    "region": "MN",
+    "postalCode": "55104",
+    "lat": "44.951664",
+    "lon": "-93.162906",
+    "feature_id": "4892"
+  },
+  {
+    "name": "Astoria Co-op Grocery",
+    "streetAddress": "1355 Exchange Street Suite 1",
+    "locality": "Astoria",
+    "region": "OR",
+    "postalCode": "97103",
+    "lat": "46.187588",
+    "lon": "-123.828808",
+    "feature_id": "4857"
+  },
+  {
+    "name": "Selby",
+    "streetAddress": "622 Selby Av.",
+    "locality": "St. Paul",
+    "region": "MN",
+    "postalCode": "55104",
+    "lat": "44.946335",
+    "lon": "-93.126624",
+    "feature_id": "4893"
+  },
+  {
+    "name": "Sitka Food Co-op",
+    "streetAddress": "505 Sawmill Creek Rd.",
+    "locality": "Sitka",
+    "region": "AK",
+    "postalCode": "99835",
+    "lat": "57.053712",
+    "lon": "-135.331263",
+    "feature_id": "11274"
+  },
+  {
+    "name": "Market East Plaza",
+    "streetAddress": "280 E. Main Street",
+    "locality": "Newark",
+    "region": "DE",
+    "postalCode": "19711",
+    "lat": "39.684921",
+    "lon": "-75.743213",
+    "feature_id": "4886"
+  },
+  {
+    "name": "Moscow Food Co-op",
+    "streetAddress": "121 East 5th St.",
+    "locality": "Moscow",
+    "region": "ID",
+    "postalCode": "83843",
+    "lat": "46.730471",
+    "lon": "-117.000458",
+    "feature_id": "4880"
+  },
+  {
+    "name": "Silver City Food Co-op",
+    "streetAddress": "520 N Bullard St.",
+    "locality": "Silver City",
+    "region": "NM",
+    "postalCode": "88061",
+    "lat": "32.772304",
+    "lon": "-108.275853",
+    "feature_id": "4877"
+  },
+  {
+    "name": "Chanhassen",
+    "streetAddress": "435 Pond Promenade",
+    "locality": "Chanhassen",
+    "region": "MN",
+    "postalCode": "55317",
+    "lat": "44.857910",
+    "lon": "-93.531528",
+    "feature_id": "6008"
+  },
+  {
+    "name": "Lakewinds Natural Foods",
+    "streetAddress": "17501 Minnetonka Blvd",
+    "locality": "Minnetonka",
+    "region": "MN",
+    "postalCode": "55345",
+    "lat": "44.941291",
+    "lon": "-93.500662",
+    "feature_id": "4873"
+  },
+  {
+    "name": "Ticonderoga Natural Foods Co-op",
+    "streetAddress": "P.O. Box 348",
+    "locality": "Ticonderoga",
+    "region": "NY",
+    "postalCode": "12883",
+    "lat": "43.852387",
+    "lon": "-73.505395",
+    "feature_id": "4870"
+  },
+  {
+    "name": "Utah Co-op",
+    "streetAddress": "4892 S Commerce Drive #B",
+    "locality": "Murray",
+    "region": "UT",
+    "postalCode": "84107",
+    "lat": "40.664965",
+    "lon": "-111.899480",
+    "feature_id": "4867"
+  },
+  {
+    "name": "Syracuse Cooperative Market",
+    "streetAddress": "618 Kensington Rd.",
+    "locality": "Syracuse",
+    "region": "NY",
+    "postalCode": "13210",
+    "lat": "43.031806",
+    "lon": "-76.116390",
+    "feature_id": "4864"
+  },
+  {
+    "name": "Food Front Cooperative Grocery – Northwest",
+    "streetAddress": "2375 NW Thurman St.",
+    "locality": "Portland",
+    "region": "OR",
+    "postalCode": "97210",
+    "lat": "45.535700",
+    "lon": "-122.700326",
+    "feature_id": "4861"
+  },
+  {
+    "name": "Food Front Cooperative Grocery – Hillsdale",
+    "streetAddress": "6344 SW Capitol Highway",
+    "locality": "Portland",
+    "region": "OR",
+    "postalCode": "97239",
+    "lat": "45.477926",
+    "lon": "-122.695583",
+    "feature_id": "4860"
+  },
+  {
+    "name": "Concord Food Co-op",
+    "streetAddress": "24  S Main Street",
+    "locality": "Concord",
+    "region": "NH",
+    "postalCode": "03301",
+    "lat": "43.203228",
+    "lon": "-71.535821",
+    "feature_id": "5120"
+  },
+  {
+    "name": "Common Market",
+    "streetAddress": "5728 Buckeystown Pike Unit 1-B",
+    "locality": "Frederick",
+    "region": "MD",
+    "postalCode": "21704",
+    "lat": "39.392463",
+    "lon": "-77.409488",
+    "feature_id": "5126"
+  },
+  {
+    "name": "Chester&#039;s Community Grocery Co-op",
+    "streetAddress": "501 Edgemont Av.",
+    "locality": "Chester",
+    "region": "PA",
+    "postalCode": "19013",
+    "lat": "39.847840",
+    "lon": "-75.360973",
+    "feature_id": "5435"
+  },
+  {
+    "name": "Eastside",
+    "streetAddress": "3111 Pacific Avenue, SE",
+    "locality": "Olympia",
+    "region": "WA",
+    "postalCode": "98501",
+    "lat": "47.041986",
+    "lon": "-122.856597",
+    "feature_id": "5322"
+  },
+  {
+    "name": "Life Grocery &amp; Cafe",
+    "streetAddress": "1453 Roswell Rd.",
+    "locality": "Marietta",
+    "region": "GA",
+    "postalCode": "30062",
+    "lat": "33.950895",
+    "lon": "-84.509476",
+    "feature_id": "5347"
+  },
+  {
+    "name": "La Montañita Co-op Food Market – Valley, Albuquerque",
+    "streetAddress": "2400 Rio Grande Blvd. NW",
+    "locality": "Albuquerque",
+    "region": "NM",
+    "postalCode": "87104",
+    "lat": "35.101989",
+    "lon": "-106.671601",
+    "feature_id": "5344"
+  },
+  {
+    "name": "La Montañita Co-op Food Market – Nob Hill, Albuquerque",
+    "streetAddress": "3500 Central Ave. SE",
+    "locality": "Albuquerque",
+    "region": "NM",
+    "postalCode": "87106",
+    "lat": "35.079299",
+    "lon": "-106.604846",
+    "feature_id": "5343"
+  },
+  {
+    "name": "La Montañita Co-op Food Market – Santa Fe",
+    "streetAddress": "913 West Alameda",
+    "locality": "Santa Fe",
+    "region": "NM",
+    "postalCode": "87501",
+    "lat": "35.689492",
+    "lon": "-105.958313",
+    "feature_id": "5342"
+  },
+  {
+    "name": "La Montañita Co-op Food Market – Gallup",
+    "streetAddress": "105 East Coal Ave.",
+    "locality": "Gallup",
+    "region": "NM",
+    "postalCode": "87301",
+    "lat": "35.527664",
+    "lon": "-108.741155",
+    "feature_id": "5341"
+  },
+  {
+    "name": "Middlebury Natural Foods Co-op",
+    "streetAddress": "9 Washington St.",
+    "locality": "Middlebury",
+    "region": "VT",
+    "postalCode": "05753",
+    "lat": "44.015002",
+    "lon": "-73.165195",
+    "feature_id": "11289"
+  },
+  {
+    "name": "Middlebury Natural Foods Co-op",
+    "streetAddress": "1 Washington St.",
+    "locality": "Middlebury",
+    "region": "VT",
+    "postalCode": "05753",
+    "lat": "44.014625",
+    "lon": "-73.165297",
+    "feature_id": "5338"
+  },
+  {
+    "name": "Menomonie Market Food Co-op",
+    "streetAddress": "814 Main Street East",
+    "locality": "Menomonie",
+    "region": "WI",
+    "postalCode": "54751",
+    "lat": "44.876099",
+    "lon": "-91.920044",
+    "feature_id": "5335"
+  },
+  {
+    "name": "Neighborhood Co-op Grocery",
+    "streetAddress": "1815 W. Main Street",
+    "locality": "Carbondale",
+    "region": "IL",
+    "postalCode": "62901",
+    "lat": "37.728142",
+    "lon": "-89.240110",
+    "feature_id": "5332"
+  },
+  {
+    "name": "Mountain View Market",
+    "streetAddress": "1300 South El Paseo, Ste. M",
+    "locality": "Las Cruces",
+    "region": "NM",
+    "postalCode": "88001",
+    "lat": "32.296600",
+    "lon": "-106.772000",
+    "feature_id": "5329"
+  },
+  {
+    "name": "Westside",
+    "streetAddress": "921 N. Rogers NW",
+    "locality": "Olympia",
+    "region": "WA",
+    "postalCode": "98502",
+    "lat": "47.053361",
+    "lon": "-122.919027",
+    "feature_id": "5323"
+  },
+  {
+    "name": "New Leaf Market",
+    "streetAddress": "1235 Apalachee Parkway",
+    "locality": "Tallahassee",
+    "region": "FL",
+    "postalCode": "32301",
+    "lat": "30.437145",
+    "lon": "-84.263383",
+    "feature_id": "5319"
+  },
+  {
+    "name": "Hanover store",
+    "streetAddress": "45 South Park Street",
+    "locality": "Hanover",
+    "region": "NH",
+    "postalCode": "03755",
+    "lat": "43.697965",
+    "lon": "-72.280427",
+    "feature_id": "5353"
+  },
+  {
+    "name": "Feather River Food Co-op – Quincy Natural Foods Portola",
+    "streetAddress": "60 North Pine St.",
+    "locality": "Portola",
+    "region": "CA",
+    "postalCode": "96122",
+    "lat": "39.810457",
+    "lon": "-120.469103",
+    "feature_id": "14877"
+  },
+  {
+    "name": "Quincy Natural Foods – Quincy",
+    "streetAddress": "269 Main Street",
+    "locality": "Quincy",
+    "region": "CA",
+    "postalCode": "95971",
+    "lat": "39.936836",
+    "lon": "-120.947176",
+    "feature_id": "5316"
+  },
+  {
+    "name": "Putney Food Co-op",
+    "streetAddress": "8 Carol Brown Way",
+    "locality": "Putney",
+    "region": "VT",
+    "postalCode": "05346",
+    "lat": "42.968009",
+    "lon": "-72.523159",
+    "feature_id": "5313"
+  },
+  {
+    "name": "PCC Bothell",
+    "streetAddress": "22621 Bothell  Everett Highway",
+    "locality": "Bothell",
+    "region": "WA",
+    "postalCode": "98021",
+    "lat": "47.792824",
+    "lon": "-122.214364",
+    "feature_id": "15951"
+  },
+  {
+    "name": "PCC Burien",
+    "streetAddress": "15840 1st Avenue South",
+    "locality": "Burien",
+    "region": "WA",
+    "postalCode": "98148",
+    "lat": "47.461077",
+    "lon": "-122.331739",
+    "feature_id": "15950"
+  },
+  {
+    "name": "PCC Columbia City",
+    "streetAddress": "3610 South Edmunds Street",
+    "locality": "Seattle",
+    "region": "WA",
+    "postalCode": "98118",
+    "lat": "47.558889",
+    "lon": "-122.286923",
+    "feature_id": "15949"
+  },
+  {
+    "name": "PCC View Ridge",
+    "streetAddress": "6514 40th Ave. NE",
+    "locality": "Seattle",
+    "region": "WA",
+    "postalCode": "98115",
+    "lat": "47.676160",
+    "lon": "-122.284324",
+    "feature_id": "5309"
+  },
+  {
+    "name": "PCC Redmond",
+    "streetAddress": "11435 Avondale Road NE",
+    "locality": "Redmond",
+    "region": "WA",
+    "postalCode": "98052",
+    "lat": "47.701556",
+    "lon": "-122.093512",
+    "feature_id": "5307"
+  },
+  {
+    "name": "PCC Kirkland",
+    "streetAddress": "10718 NE 68th Street",
+    "locality": "Kirkland",
+    "region": "WA",
+    "postalCode": "98033",
+    "lat": "47.666986",
+    "lon": "-122.197252",
+    "feature_id": "5306"
+  },
+  {
+    "name": "PCC Greenlake Aurora",
+    "streetAddress": "7504 Aurora Ave. N.",
+    "locality": "Seattle",
+    "region": "WA",
+    "postalCode": "98103",
+    "lat": "47.683503",
+    "lon": "-122.344122",
+    "feature_id": "5304"
+  },
+  {
+    "name": "PCC Fremont",
+    "streetAddress": "600 North 34th Street",
+    "locality": "Seattle",
+    "region": "WA",
+    "postalCode": "98103",
+    "lat": "47.649922",
+    "lon": "-122.351032",
+    "feature_id": "5303"
+  },
+  {
+    "name": "Kokua Market",
+    "streetAddress": "2643 S. King St.",
+    "locality": "Honolulu",
+    "region": "HI",
+    "postalCode": "96826",
+    "lat": "21.291143",
+    "lon": "-157.820862",
+    "feature_id": "5350"
+  },
+  {
+    "name": "Lebanon store",
+    "streetAddress": "12 Centerra Parkway",
+    "locality": "Lebanon",
+    "region": "NH",
+    "postalCode": "03766",
+    "lat": "43.676562",
+    "lon": "-72.260656",
+    "feature_id": "5354"
+  },
+  {
+    "name": "PCC Co-op Office",
+    "streetAddress": "3131 Elliot Ave. Suite #500",
+    "locality": "Seattle",
+    "region": "WA",
+    "postalCode": "98121",
+    "lat": "47.617874",
+    "lon": "-122.357982",
+    "feature_id": "5301"
+  },
+  {
+    "name": "Mountain Community Co-op",
+    "streetAddress": "105 Carter St",
+    "locality": "Eatonville",
+    "region": "WA",
+    "postalCode": "98328",
+    "lat": "46.869102",
+    "lon": "-122.266864",
+    "feature_id": "5396"
+  },
+  {
+    "name": "Natural Food Co-op",
+    "streetAddress": "230 N. Sibley Ave.",
+    "locality": "Litchfield",
+    "region": "MN",
+    "postalCode": "55355",
+    "lat": "45.127794",
+    "lon": "-94.528105",
+    "feature_id": "5432"
+  },
+  {
+    "name": "San Juan Island Food Co-op",
+    "streetAddress": "775 Mullis Street #C",
+    "locality": "Friday Harbor",
+    "region": "WA",
+    "postalCode": "",
+    "lat": "48.534266",
+    "lon": "-123.017124",
+    "feature_id": "5429"
+  },
+  {
+    "name": "Bisbee Food Co-op",
+    "streetAddress": "72 Erie St.",
+    "locality": "Bisbee",
+    "region": "AZ",
+    "postalCode": "85603",
+    "lat": "31.430967",
+    "lon": "-109.894562",
+    "feature_id": "5426"
+  },
+  {
+    "name": "Missoula Community Co-op",
+    "streetAddress": "1500 Burns St.",
+    "locality": "Missoula",
+    "region": "MT",
+    "postalCode": "59802",
+    "lat": "46.885631",
+    "lon": "-114.014851",
+    "feature_id": "5423"
+  },
+  {
+    "name": "Frontier Natural Products Co-op",
+    "streetAddress": "3021 78th St.",
+    "locality": "Norway",
+    "region": "IA",
+    "postalCode": "52318",
+    "lat": "41.902781",
+    "lon": "-91.921569",
+    "feature_id": "5417"
+  },
+  {
+    "name": "Good Food Junction Cooperative",
+    "streetAddress": "230 Avenue R. South",
+    "locality": "Saskatoon",
+    "region": "SK",
+    "postalCode": "SK S7M 2Z1",
+    "lat": "52.126178",
+    "lon": "-106.697630",
+    "feature_id": "5414"
+  },
+  {
+    "name": "Karma Food Co-operative",
+    "streetAddress": "739 Palmerston Ave.",
+    "locality": "Toronto",
+    "region": "ON",
+    "postalCode": "M6G 2R3",
+    "lat": "43.668080",
+    "lon": "-79.414932",
+    "feature_id": "5411"
+  },
+  {
+    "name": "Pocatello Co-op",
+    "streetAddress": "305 E. Center St.",
+    "locality": "Pocatello",
+    "region": "ID",
+    "postalCode": "83201",
+    "lat": "42.864727",
+    "lon": "-112.446418",
+    "feature_id": "5408"
+  },
+  {
+    "name": "Sierra Vista Food Co-op",
+    "streetAddress": "96 S. Carmichael Ave.",
+    "locality": "Sierra Vista",
+    "region": "AZ",
+    "postalCode": "85635",
+    "lat": "31.553252",
+    "lon": "-110.300268",
+    "feature_id": "5405"
+  },
+  {
+    "name": "Yelm Food Co-op",
+    "streetAddress": "404 First Street SE",
+    "locality": "Yelm",
+    "region": "WA",
+    "postalCode": "98597",
+    "lat": "46.939750",
+    "lon": "-122.609325",
+    "feature_id": "5402"
+  },
+  {
+    "name": "Northcountry Cooperative Development Fund",
+    "streetAddress": "",
+    "locality": "",
+    "region": "",
+    "postalCode": "",
+    "lat": "46.729553",
+    "lon": "-94.685900",
+    "feature_id": "5399"
+  },
+  {
+    "name": "Fresh Connections Local &amp; Natural Food Co-op",
+    "streetAddress": "14 East State St.",
+    "locality": "Algona",
+    "region": "IA",
+    "postalCode": "50511",
+    "lat": "43.068853",
+    "lon": "-94.237763",
+    "feature_id": "5393"
+  },
+  {
+    "name": "White River Junction store",
+    "streetAddress": "209 Maple Street",
+    "locality": "White River Junction",
+    "region": "VT",
+    "postalCode": "05001",
+    "lat": "43.648960",
+    "lon": "-72.319258",
+    "feature_id": "5355"
+  },
+  {
+    "name": "Mountain Community Co-op",
+    "streetAddress": "105 Carter St",
+    "locality": "Eatonville",
+    "region": "WA",
+    "postalCode": "98328",
+    "lat": "46.869102",
+    "lon": "-122.266864",
+    "feature_id": "5390"
+  },
+  {
+    "name": "14 Carrots Natural Foods Cooperative",
+    "streetAddress": "New London Shopping Center, Newport Rd.",
+    "locality": "New London",
+    "region": "NH",
+    "postalCode": "03257",
+    "lat": "43.423888",
+    "lon": "-72.003804",
+    "feature_id": "5387"
+  },
+  {
+    "name": "Basics Cooperative",
+    "streetAddress": "1711 Lodge Drive",
+    "locality": "Janesville",
+    "region": "WI",
+    "postalCode": "53545",
+    "lat": "42.717777",
+    "lon": "-89.001110",
+    "feature_id": "5384"
+  },
+  {
+    "name": "Bluff Country Co-op",
+    "streetAddress": "121 West 2nd St.",
+    "locality": "Winona",
+    "region": "MN",
+    "postalCode": "55987",
+    "lat": "44.053785",
+    "lon": "-91.638408",
+    "feature_id": "5381"
+  },
+  {
+    "name": "Eastside Food Cooperative",
+    "streetAddress": "2551 Central Avenue NE",
+    "locality": "Minneapolis",
+    "region": "MN",
+    "postalCode": "55418",
+    "lat": "45.014751",
+    "lon": "-93.246815",
+    "feature_id": "5378"
+  },
+  {
+    "name": "Flatbush Food Co-op",
+    "streetAddress": "1415 Cortelyou Rd",
+    "locality": "Brooklyn",
+    "region": "NY",
+    "postalCode": "11226",
+    "lat": "40.641265",
+    "lon": "-73.964753",
+    "feature_id": "5375"
+  },
+  {
+    "name": "Harmony Co-op",
+    "streetAddress": "301 Irvine AVE NW",
+    "locality": "Bemidji",
+    "region": "MN",
+    "postalCode": "56601",
+    "lat": "47.470944",
+    "lon": "-94.885761",
+    "feature_id": "5372"
+  },
+  {
+    "name": "George Street Co-op",
+    "streetAddress": "89 Morris St.",
+    "locality": "New Brunswick",
+    "region": "NJ",
+    "postalCode": "08901",
+    "lat": "40.491767",
+    "lon": "-74.445008",
+    "feature_id": "5369"
+  },
+  {
+    "name": "Hungry Hollow Co-op",
+    "streetAddress": "841 Chestnut Ridge Road",
+    "locality": "Chestnut Ridge",
+    "region": "NY",
+    "postalCode": "10977",
+    "lat": "41.084263",
+    "lon": "-74.055697",
+    "feature_id": "5366"
+  },
+  {
+    "name": "Lexington Cooperative Market",
+    "streetAddress": "807 Elmwood Ave.",
+    "locality": "Buffalo",
+    "region": "NY",
+    "postalCode": "14222",
+    "lat": "42.919196",
+    "lon": "-78.876690",
+    "feature_id": "5363"
+  },
+  {
+    "name": "Keweenaw Cooperative",
+    "streetAddress": "1035 Ethel Ave.",
+    "locality": "Hancock",
+    "region": "MI",
+    "postalCode": "49930",
+    "lat": "47.133185",
+    "lon": "-88.599780",
+    "feature_id": "5360"
+  },
+  {
+    "name": "Service Center",
+    "streetAddress": "51 South Park St.",
+    "locality": "Hanover",
+    "region": "NH",
+    "postalCode": "03755",
+    "lat": "43.697166",
+    "lon": "-72.280392",
+    "feature_id": "5356"
+  },
+  {
+    "name": "PCC Edmonds",
+    "streetAddress": "9803 Edmonds Way",
+    "locality": "Edmonds",
+    "region": "WA",
+    "postalCode": "98020",
+    "lat": "47.791438",
+    "lon": "-122.366212",
+    "feature_id": "5302"
+  },
+  {
+    "name": "Port Townsend Food Co-op",
+    "streetAddress": "414 Kearney Street",
+    "locality": "Port Townsend",
+    "region": "WA",
+    "postalCode": "98368",
+    "lat": "48.110751",
+    "lon": "-122.770658",
+    "feature_id": "5298"
+  },
+  {
+    "name": "Chequamegon Food Co-op",
+    "streetAddress": "700 Main Street",
+    "locality": "Ashland",
+    "region": "WI",
+    "postalCode": "54806",
+    "lat": "46.587860",
+    "lon": "-90.890779",
+    "feature_id": "11292"
+  },
+  {
+    "name": "Blue Hills Market",
+    "streetAddress": "705 N Main Street",
+    "locality": "Bruce",
+    "region": "WI",
+    "postalCode": "54819",
+    "lat": "45.454276",
+    "lon": "-91.273409",
+    "feature_id": "5171"
+  },
+  {
+    "name": "Hendersonville Community Co-op",
+    "streetAddress": "60 South Charleston Lane",
+    "locality": "Hendersonville",
+    "region": "NC",
+    "postalCode": "28792",
+    "lat": "35.303816",
+    "lon": "-82.447227",
+    "feature_id": "5211"
+  },
+  {
+    "name": "Alberta Cooperative Grocery",
+    "streetAddress": "1500 NE Alberta St.",
+    "locality": "Portland",
+    "region": "OR",
+    "postalCode": "97211",
+    "lat": "45.558922",
+    "lon": "-122.649494",
+    "feature_id": "5208"
+  },
+  {
+    "name": "Eureka",
+    "streetAddress": "25 4th Street",
+    "locality": "Eureka",
+    "region": "CA",
+    "postalCode": "95501",
+    "lat": "40.802530",
+    "lon": "-124.171317",
+    "feature_id": "5205"
+  },
+  {
+    "name": "Arcata",
+    "streetAddress": "811 I Street",
+    "locality": "Arcata",
+    "region": "CA",
+    "postalCode": "95521",
+    "lat": "40.868909",
+    "lon": "-124.088929",
+    "feature_id": "5204"
+  },
+  {
+    "name": "River Market Community Co-op",
+    "streetAddress": "221 N. Main St.",
+    "locality": "Stillwater",
+    "region": "MN",
+    "postalCode": "55082",
+    "lat": "45.057680",
+    "lon": "-92.806353",
+    "feature_id": "5201"
+  },
+  {
+    "name": "Sevananda Natural Foods Market",
+    "streetAddress": "467 Moreland Ave. NE",
+    "locality": "Atlanta",
+    "region": "GA",
+    "postalCode": "30307",
+    "lat": "33.766992",
+    "lon": "-84.348507",
+    "feature_id": "5195"
+  },
+  {
+    "name": "Natural Harvest Food Co-op",
+    "streetAddress": "505 Third St. N.",
+    "locality": "Virginia",
+    "region": "MN",
+    "postalCode": "55792",
+    "lat": "47.526039",
+    "lon": "-92.539483",
+    "feature_id": "5192"
+  },
+  {
+    "name": "Paso Food Cooperative",
+    "streetAddress": "PO Box 992",
+    "locality": "Paso Robles",
+    "region": "CA",
+    "postalCode": "93447",
+    "lat": "35.620447",
+    "lon": "-120.689554",
+    "feature_id": "5183"
+  },
+  {
+    "name": "Bowdon Locker &amp; Grocery",
+    "streetAddress": "139 Warrington Avenue",
+    "locality": "Bowdon",
+    "region": "ND",
+    "postalCode": "58418",
+    "lat": "47.464974",
+    "lon": "-99.707694",
+    "feature_id": "5180"
+  },
+  {
+    "name": "Ellwood Hometown Cooperative Market",
+    "streetAddress": "304 Smith Avenue",
+    "locality": "Elwood",
+    "region": "NE",
+    "postalCode": "68937",
+    "lat": "40.595635",
+    "lon": "-99.861814",
+    "feature_id": "5177"
+  },
+  {
+    "name": "Northwest Corner Co-op",
+    "streetAddress": "383 Torrington Road",
+    "locality": "Litchfield",
+    "region": "CT",
+    "postalCode": "06759",
+    "lat": "41.767390",
+    "lon": "-73.175957",
+    "feature_id": "5174"
+  },
+  {
+    "name": "Greene Hill Food Co-op",
+    "streetAddress": "18 Putnam Avenue",
+    "locality": "Brooklyn",
+    "region": "NY",
+    "postalCode": "11238",
+    "lat": "40.682563",
+    "lon": "-73.961071",
+    "feature_id": "5168"
+  },
+  {
+    "name": "Spiral Natural Foods",
+    "streetAddress": "1250 S Frontage Rd",
+    "locality": "Hastings",
+    "region": "MN",
+    "postalCode": "55033",
+    "lat": "44.737855",
+    "lon": "-92.875019",
+    "feature_id": "5217"
+  },
+  {
+    "name": "The Local Beet Co-op",
+    "streetAddress": "1 Main Street",
+    "locality": "Chester",
+    "region": "CT",
+    "postalCode": "06412",
+    "lat": "41.403031",
+    "lon": "-72.450616",
+    "feature_id": "5165"
+  },
+  {
+    "name": "Arena Market &amp; Cafe",
+    "streetAddress": "185 Main Street",
+    "locality": "Point Arena",
+    "region": "CA",
+    "postalCode": "95468",
+    "lat": "38.908677",
+    "lon": "-123.692402",
+    "feature_id": "5159"
+  },
+  {
+    "name": "Allegany Harvest Market",
+    "streetAddress": "9676 Route 19",
+    "locality": "Houghton",
+    "region": "NY",
+    "postalCode": "14744",
+    "lat": "42.422823",
+    "lon": "-78.156661",
+    "feature_id": "5156"
+  },
+  {
+    "name": "Local Roots Food Co-op",
+    "streetAddress": "PO Box 722",
+    "locality": "Buffalo",
+    "region": "MN",
+    "postalCode": "55313",
+    "lat": "45.198181",
+    "lon": "-93.818796",
+    "feature_id": "5153"
+  },
+  {
+    "name": "Iowa Food Cooperative",
+    "streetAddress": "3800 Merle Hay Road #1215",
+    "locality": "Des Moines",
+    "region": "IA",
+    "postalCode": "50310",
+    "lat": "41.631418",
+    "lon": "-93.701144",
+    "feature_id": "5147"
+  },
+  {
+    "name": "Boise Co-op – The Village",
+    "streetAddress": "2350 N. Eagle Road",
+    "locality": "Meridian",
+    "region": "ID",
+    "postalCode": "83646",
+    "lat": "43.626186",
+    "lon": "-116.354378",
+    "feature_id": "14898"
+  },
+  {
+    "name": "Boise Co-op – North End",
+    "streetAddress": "888 W Fort Street",
+    "locality": "Boise",
+    "region": "ID",
+    "postalCode": "83702",
+    "lat": "43.622723",
+    "lon": "-116.198219",
+    "feature_id": "5144"
+  },
+  {
+    "name": "Richmond Food Cooperative",
+    "streetAddress": "PO Box 7304",
+    "locality": "Richmond",
+    "region": "VA",
+    "postalCode": "23221",
+    "lat": "37.548889",
+    "lon": "-77.487405",
+    "feature_id": "5141"
+  },
+  {
+    "name": "Common Ground Food Co-op",
+    "streetAddress": "300 S Broadway, Ste 166",
+    "locality": "Urbana",
+    "region": "IL",
+    "postalCode": "61801",
+    "lat": "40.110584",
+    "lon": "-88.207087",
+    "feature_id": "5138"
+  },
+  {
+    "name": "Chatham Marketplace",
+    "streetAddress": "480 Hillsboro Street",
+    "locality": "Pittsboro",
+    "region": "NC",
+    "postalCode": "27312",
+    "lat": "35.720146",
+    "lon": "-79.177237",
+    "feature_id": "5135"
+  },
+  {
+    "name": "City Center Market",
+    "streetAddress": "122 N Buchanan Street",
+    "locality": "Cambridge",
+    "region": "MN",
+    "postalCode": "55008",
+    "lat": "45.573164",
+    "lon": "-93.221531",
+    "feature_id": "5132"
+  },
+  {
+    "name": "Rising Tide Community Market",
+    "streetAddress": "323 Main Street",
+    "locality": "Damariscotta",
+    "region": "ME",
+    "postalCode": "04543",
+    "lat": "44.032769",
+    "lon": "-69.518935",
+    "feature_id": "5214"
+  },
+  {
+    "name": "Whole Earth Grocery",
+    "streetAddress": "126 S. Main St.",
+    "locality": "River Falls",
+    "region": "WI",
+    "postalCode": "54022",
+    "lat": "44.857628",
+    "lon": "-92.626095",
+    "feature_id": "5220"
+  },
+  {
+    "name": "St. Peter Food Co-op",
+    "streetAddress": "119 W. Broadway Av.",
+    "locality": "St. Peter",
+    "region": "MN",
+    "postalCode": "56082",
+    "lat": "44.325831",
+    "lon": "-93.954953",
+    "feature_id": "5295"
+  },
+  {
+    "name": "Three Rivers Market",
+    "streetAddress": "1100 N Central St.",
+    "locality": "Knoxville",
+    "region": "TN",
+    "postalCode": "37917",
+    "lat": "35.981390",
+    "lon": "-83.927956",
+    "feature_id": "5259"
+  },
+  {
+    "name": "Skagit Valley Food Co-op",
+    "streetAddress": "202 S. First St.",
+    "locality": "Mount Vernon",
+    "region": "WA",
+    "postalCode": "98273",
+    "lat": "48.420892",
+    "lon": "-122.336330",
+    "feature_id": "5292"
+  },
+  {
+    "name": "Roanoke Co+op – Market Square",
+    "streetAddress": "One Market Square, Unit 115",
+    "locality": "Roanoke",
+    "region": "VA",
+    "postalCode": "24011",
+    "lat": "37.271471",
+    "lon": "-79.939463",
+    "feature_id": "14879"
+  },
+  {
+    "name": "Roanoke Co+op – Grandin Road",
+    "streetAddress": "1319 Grandin Rd. SW",
+    "locality": "Roanoke",
+    "region": "VA",
+    "postalCode": "24015",
+    "lat": "37.265159",
+    "lon": "-79.977456",
+    "feature_id": "5289"
+  },
+  {
+    "name": "Valley Natural Foods",
+    "streetAddress": "13750 County Rd. 11",
+    "locality": "Burnsville",
+    "region": "MN",
+    "postalCode": "55337",
+    "lat": "44.762216",
+    "lon": "-93.248018",
+    "feature_id": "5283"
+  },
+  {
+    "name": "Upper Valley Food Co-op",
+    "streetAddress": "193 N. Main St.",
+    "locality": "White River Junction",
+    "region": "VT",
+    "postalCode": "05001",
+    "lat": "43.650249",
+    "lon": "-72.322291",
+    "feature_id": "5280"
+  },
+  {
+    "name": "Willimantic Food Co-op",
+    "streetAddress": "91 Valley St.",
+    "locality": "Willimantic",
+    "region": "CT",
+    "postalCode": "06226",
+    "lat": "41.713278",
+    "lon": "-72.210884",
+    "feature_id": "5277"
+  },
+  {
+    "name": "Ypsilanti Food Co-op",
+    "streetAddress": "312 N. River St.",
+    "locality": "Ypsilanti",
+    "region": "MI",
+    "postalCode": "48198",
+    "lat": "42.245119",
+    "lon": "-83.608357",
+    "feature_id": "5274"
+  },
+  {
+    "name": "River Valley Market",
+    "streetAddress": "330 N. King Street",
+    "locality": "Northampton",
+    "region": "MA",
+    "postalCode": "01060",
+    "lat": "42.347859",
+    "lon": "-72.643422",
+    "feature_id": "5271"
+  },
+  {
+    "name": "Cooperative Development Institute",
+    "streetAddress": "PO Box 1051",
+    "locality": "Northhampton",
+    "region": "MA",
+    "postalCode": "01061-1051",
+    "lat": "42.321403",
+    "lon": "-72.627349",
+    "feature_id": "7785"
+  },
+  {
+    "name": "ICDC – Indiana Cooperative Development Center",
+    "streetAddress": "225 S. East St., Suite 737",
+    "locality": "Indianapolis",
+    "region": "IN",
+    "postalCode": "46202",
+    "lat": "39.763402",
+    "lon": "-86.147168",
+    "feature_id": "15064"
+  },
+  {
+    "name": "Chico Natural Foods Cooperative ",
+    "streetAddress": "818 Main St.",
+    "locality": "Chico",
+    "region": "CA",
+    "postalCode": "95928",
+    "lat": "39.725803",
+    "lon": "-121.835592",
+    "feature_id": "5262"
+  },
+  {
+    "name": "Near East Side Cooperative Market",
+    "streetAddress": "1117 Oak Street",
+    "locality": "Columbus",
+    "region": "OH",
+    "postalCode": "43205",
+    "lat": "39.962502",
+    "lon": "-82.970307",
+    "feature_id": "5256"
+  },
+  {
+    "name": "Whole Earth Grocery",
+    "streetAddress": "126 S. Main St.",
+    "locality": "River Falls",
+    "region": "WI",
+    "postalCode": "54022",
+    "lat": "44.857628",
+    "lon": "-92.626095",
+    "feature_id": "11249"
+  },
+  {
+    "name": "South Street Plaza",
+    "streetAddress": "1618 South St.",
+    "locality": "Lincoln",
+    "region": "NE",
+    "postalCode": "68502",
+    "lat": "40.792318",
+    "lon": "-96.697769",
+    "feature_id": "5253"
+  },
+  {
+    "name": "City Market / Onion River Co-op",
+    "streetAddress": "82 S. Winooski Av.",
+    "locality": "Burlington",
+    "region": "VT",
+    "postalCode": "05401",
+    "lat": "44.478182",
+    "lon": "-73.210230",
+    "feature_id": "11275"
+  },
+  {
+    "name": "Oneota Community Food Cooperative",
+    "streetAddress": "312 W. Water St.",
+    "locality": "Decorah",
+    "region": "IA",
+    "postalCode": "52101",
+    "lat": "43.304434",
+    "lon": "-91.788927",
+    "feature_id": "5247"
+  },
+  {
+    "name": "Wild Oats Co-op",
+    "streetAddress": "320 Main Street",
+    "locality": "Williamstown",
+    "region": "MA",
+    "postalCode": "01267",
+    "lat": "42.703777",
+    "lon": "-73.186784",
+    "feature_id": "5244"
+  },
+  {
+    "name": "Springfield Food Co-op",
+    "streetAddress": "335 River Street",
+    "locality": "Springfield",
+    "region": "VT",
+    "postalCode": "05156",
+    "lat": "43.314787",
+    "lon": "-72.501815",
+    "feature_id": "5241"
+  },
+  {
+    "name": "Great Basin Community Food Co-op",
+    "streetAddress": "240 Court St.",
+    "locality": "Reno",
+    "region": "NV",
+    "postalCode": "89501",
+    "lat": "39.522632",
+    "lon": "-119.815471",
+    "feature_id": "5235"
+  },
+  {
+    "name": "St. J Food Co-op",
+    "streetAddress": "490 Portland St.",
+    "locality": "St. Johnsbury",
+    "region": "VT",
+    "postalCode": "05819",
+    "lat": "44.420678",
+    "lon": "-72.005924",
+    "feature_id": "5232"
+  },
+  {
+    "name": "Outpost Natural Foods: Mequon",
+    "streetAddress": "7590 W Mequon Rd",
+    "locality": "Mequon",
+    "region": "WI",
+    "postalCode": "53092",
+    "lat": "43.221773",
+    "lon": "-88.003394",
+    "feature_id": "5229"
+  },
+  {
+    "name": "Outpost Natural Foods - Bay View",
+    "streetAddress": "2826 S. Kinnickinnic Avenue",
+    "locality": "Milwaukee",
+    "region": "WI",
+    "postalCode": "53207",
+    "lat": "42.994100",
+    "lon": "-87.891800",
+    "feature_id": "5228"
+  },
+  {
+    "name": "Outpost Natural Foods - State Street",
+    "streetAddress": "7000 W. State Street",
+    "locality": "Wauwatosa",
+    "region": "WI",
+    "postalCode": "53213",
+    "lat": "43.047960",
+    "lon": "-87.999784",
+    "feature_id": "5227"
+  },
+  {
+    "name": "Outpost Natural Foods - Capitol Drive",
+    "streetAddress": "100 East Capitol Drive",
+    "locality": "Milwaukee",
+    "region": "WI",
+    "postalCode": "53212",
+    "lat": "43.089771",
+    "lon": "-87.909968",
+    "feature_id": "5226"
+  },
+  {
+    "name": "Three Rivers Food Co-op",
+    "streetAddress": "1612 Sherman Blvd.",
+    "locality": "Ft. Wayne",
+    "region": "IN",
+    "postalCode": "46808",
+    "lat": "41.089310",
+    "lon": "-85.153200",
+    "feature_id": "5223"
+  },
+  {
+    "name": "Clipper City Food Co-op",
+    "streetAddress": "PO Box 1401",
+    "locality": "Manitowoc",
+    "region": "WI",
+    "postalCode": "54221-1401",
+    "lat": "44.090000",
+    "lon": "-87.660000",
+    "feature_id": "15954"
+  }
+]
